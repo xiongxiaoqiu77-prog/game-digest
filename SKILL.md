@@ -109,7 +109,7 @@ curl -s https://raw.githubusercontent.com/xiongxiaoqiu77-prog/game-digest/main/f
 ...
 ```
 
-每篇文章直接使用 feed 中的 `title`、`description`、`source`、`url` 字段，不要自行改写摘要内容。
+每篇文章直接使用 feed 中的 `title`、`description`、`source`、`url` 字段，**完整输出 `description` 内容，不要截断或精简**。
 
 ### 第 5 步：询问反馈
 
