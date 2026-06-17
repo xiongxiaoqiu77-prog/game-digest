@@ -1,0 +1,15 @@
+{
+  "updated": "2026-06-17",
+  "generated_at": "2026-06-17T11:28:10.427729",
+  "articles": [
+    {
+      "title": "测试文章",
+      "description": "测试摘要",
+      "url": "https://example.com",
+      "source": "微信-测试",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-06-17"
+    }
+  ]
+}
