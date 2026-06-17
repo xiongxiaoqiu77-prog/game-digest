@@ -46,7 +46,7 @@ ON_THIS_DAY_YEARS = 3   # look back this many years
 FEISHU_USER_ID = os.environ.get("FEISHU_USER_ID", "")
 FEISHU_CHAT_ID = os.environ.get("FEISHU_CHAT_ID", "")
 DEDUP_DAYS = 7
-MIN_SCORE = 3          # 1-2 = 广告/垃圾，3+ 全部保留并按类别展示
+MIN_SCORE = 5          # 1-4 = 低质/广告，5+ 保留并按类别展示
 ENABLE_SOGOU_WECHAT = False
 MAX_CANDIDATES_TO_SCORE = 80
 
@@ -395,7 +395,6 @@ def sort_candidate_articles(articles):
         articles,
         key=lambda a: (
             1 if a.get("priority") else 0,
-            1 if str(a.get("source", "")).startswith("微信-") else 0,
             parsed_time(a),
         ),
         reverse=True,
@@ -404,7 +403,7 @@ def sort_candidate_articles(articles):
 
 def fetch_rss():
     articles = []
-    win_start = _yesterday_start()   # yesterday 00:00
+    win_start = _yesterday_start() - datetime.timedelta(days=1)  # 2 days ago 00:00, dedup handles repeats
     win_end = datetime.datetime.now()  # up to now (covers early-morning articles)
     for feed_info in RSS_FEEDS:
         try:
@@ -442,7 +441,7 @@ def fetch_rss():
 
 def fetch_wechat_rss():
     articles = []
-    win_start = _yesterday_start()   # yesterday 00:00
+    win_start = _yesterday_start() - datetime.timedelta(days=1)  # 2 days ago 00:00, dedup handles repeats
     win_end = datetime.datetime.now()  # up to now (covers early-morning articles)
     for feed_info in load_wechat_feeds():
         name = feed_info.get("name", "微信公众号")
@@ -485,8 +484,24 @@ def _we_mp_rss_check_token_expired():
     """If WeChat RSS returned 0 articles, check we-mp-rss service availability.
     If service is down or token invalid, send a Feishu warning."""
     try:
-        resp = requests.get(f"{WE_MP_RSS_ORIGIN}/api/v1/wx/mps", timeout=5)
-        if resp.status_code == 401:
+        # 先用管理员账号获取 JWT，再查微信 token 状态
+        login = requests.post(
+            f"{WE_MP_RSS_ORIGIN}/api/v1/wx/auth/login",
+            data="username=admin&password=admin%40123", timeout=5
+        )
+        jwt = login.json().get("data", {}).get("access_token", "") if login.ok else ""
+        if not jwt:
+            log("we-mp-rss: 服务无法访问，跳过 token 检查")
+            return
+        info = requests.get(
+            f"{WE_MP_RSS_ORIGIN}/api/v1/wx/sys/info",
+            headers={"Authorization": f"Bearer {jwt}"}, timeout=5
+        )
+        wx = info.json().get("data", {}).get("wx", {}) if info.ok else {}
+        token_val = wx.get("token", "")
+        expiry = wx.get("info", {}).get("expiry", {})
+        remaining = expiry.get("remaining_seconds", 9999)
+        if not token_val or remaining <= 0:
             log("we-mp-rss: token 失效，发送飞书警告")
             warn_msg = (
                 "⚠️ 微信公众号 RSS 同步失败\n"
@@ -812,31 +827,28 @@ def fetch_wechat():
     return articles
 
 
-def claude_call(prompt_text, _retry=3):
-    """Call claude CLI non-interactively and return stdout.
-    Retries up to _retry times on auth/rate-limit errors (e.g. right after Mac wakes from sleep).
-    3 retries × 5 min = up to 15 min total, covering the OAuth token refresh window after wake."""
-    import os
-    env = os.environ.copy()
-    env.setdefault("HOME", str(Path.home()))
-    env.setdefault("USER", os.environ.get("USER", "xiongxiong"))
-    env.setdefault("PATH", "/Users/xiongxiong/.local/bin:/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin")
-    result = subprocess.run(
-        ["claude", "-p", prompt_text, "--output-format", "text"],
-        capture_output=True, text=True, timeout=300, env=env
-    )
-    if result.returncode != 0:
-        detail = (result.stderr.strip() or result.stdout.strip() or f"exit {result.returncode}")[:500]
-        # Auth/rate-limit errors can occur right after Mac wakes from sleep.
-        # Wait 5 minutes and retry — OAuth token usually refreshes within 15 min.
+def claude_call(prompt_text, _retry=2):
+    """Call DeepSeek API (uses DEEPSEEK_API_KEY from .env)."""
+    api_key = os.environ.get("DEEPSEEK_API_KEY", "")
+    if not api_key:
+        raise RuntimeError("DEEPSEEK_API_KEY not set")
+    try:
+        resp = requests.post(
+            "https://api.deepseek.com/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={"model": "deepseek-v4-flash", "messages": [{"role": "user", "content": prompt_text}]},
+            timeout=120,
+        )
+        resp.raise_for_status()
+        return resp.json()["choices"][0]["message"]["content"].strip()
+    except Exception as e:
+        detail = str(e)[:500]
         if _retry > 0 and any(kw in detail.lower() for kw in
-                               ["credit balance", "usage limit", "oauth token", "not logged in",
-                                "authentication failed", "unauthorized"]):
-            log(f"Claude call error (retrying in 300s, {_retry} left): {detail}")
-            import time; time.sleep(300)
+                               ["429", "quota", "timeout", "connection", "500", "503"]):
+            log(f"DeepSeek API error (retrying in 10s, {_retry} left): {detail}")
+            import time; time.sleep(10)
             return claude_call(prompt_text, _retry=_retry - 1)
         raise RuntimeError(detail)
-    return result.stdout.strip()
 
 
 def score_and_translate_batch(articles):
@@ -904,16 +916,7 @@ def score_and_translate_batch(articles):
         raw = claude_call(prompt)
     except Exception as e:
         log(f"Claude call error: {e}")
-        # 降级：评分失败时给所有候选文章打默认分数，确保日报仍能发出
-        log("Claude 评分失败，降级处理：所有候选文章使用默认评分发送")
-        fallback = []
-        for article in articles:
-            article["score"] = MIN_SCORE
-            article["category"] = "行业资讯"
-            article["zh_title"] = article.get("title", "")
-            article["zh_desc"] = article.get("summary", "")[:200]
-            fallback.append(article)
-        return fallback
+        raise  # 评分失败直接抛出，由上层决定是否跳过
 
     results = _parse_json_robust(raw)
     if results is None:
@@ -1099,15 +1102,30 @@ def main(test_mode=False):
         log("No articles today. Skipping send.")
         return
 
-    candidates = sort_candidate_articles(candidates_pool)[:MAX_CANDIDATES_TO_SCORE]
+    candidates = sort_candidate_articles(candidates_pool)
     log(f"Candidates selected for scoring: {len(candidates)}")
 
     # Score + translate in batches of 20 (balance: fewer CLI cold-starts vs timeout risk)
     scored = []
     BATCH = 20
+    scoring_failed = False
     for i in range(0, len(candidates), BATCH):
-        batch_result = score_and_translate_batch(candidates[i:i + BATCH])
-        scored.extend(batch_result)
+        try:
+            batch_result = score_and_translate_batch(candidates[i:i + BATCH])
+            scored.extend(batch_result)
+        except Exception as e:
+            log(f"Claude 评分失败，跳过今日日报: {e}")
+            scoring_failed = True
+            break
+    if scoring_failed:
+        subprocess.run(
+            ["lark-cli", "im", "+messages-send",
+             "--user-id", FEISHU_USER_ID,
+             "--text", "⚠️ 游戏日报评分失败（Claude CLI 认证问题），今日日报未发送。请手动运行：python3 digest.py",
+             "--as", "user"],
+            capture_output=True, text=True
+        )
+        return
     log(f"After scoring (≥{MIN_SCORE}): {len(scored)} articles")
 
     # Generate descriptions for On This Day articles (title-only, bypass score filter)
@@ -1141,6 +1159,44 @@ def main(test_mode=False):
         save_history(history, scored)
 
     log(f"=== Done: {len(scored)} articles sent ===")
+
+    # Publish feed.json to GitHub for public consumption
+    if not test_mode:
+        _publish_feed(scored, report_date)
+
+
+def _publish_feed(articles, report_date):
+    """Write feed.json and push to GitHub."""
+    feed = {
+        "updated": report_date.strftime("%Y-%m-%d"),
+        "generated_at": datetime.datetime.now().isoformat(),
+        "articles": [
+            {
+                "title": a.get("zh_title") or a.get("title", ""),
+                "description": a.get("zh_desc") or a.get("summary", ""),
+                "url": a.get("url", ""),
+                "source": a.get("source", ""),
+                "category": a.get("category", ""),
+                "score": a.get("score", 0),
+                "published_at": a.get("published_at", ""),
+            }
+            for a in articles
+        ],
+    }
+    feed_file = SCRIPT_DIR / "feed.json"
+    with open(feed_file, "w", encoding="utf-8") as f:
+        json.dump(feed, f, ensure_ascii=False, indent=2)
+
+    try:
+        subprocess.run(["git", "add", "feed.json"], cwd=SCRIPT_DIR, check=True, capture_output=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"feed: {report_date.strftime('%Y-%m-%d')}"],
+            cwd=SCRIPT_DIR, check=True, capture_output=True
+        )
+        subprocess.run(["git", "push"], cwd=SCRIPT_DIR, check=True, capture_output=True)
+        log("feed.json pushed to GitHub")
+    except subprocess.CalledProcessError as e:
+        log(f"feed.json push failed: {e.stderr.decode()[:200] if e.stderr else str(e)}")
 
 
 if __name__ == "__main__":
