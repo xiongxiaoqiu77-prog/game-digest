@@ -1,51 +1,42 @@
 {
-  "updated": "2026-06-20",
-  "generated_at": "2026-06-20T06:37:12.490411",
+  "updated": "2026-06-22",
+  "generated_at": "2026-06-22T10:04:43.682394",
   "articles": [
     {
-      "title": "Kabam整合洛杉矶办公室并裁员",
-      "description": "《漫威冠军之争》开发商Kabam宣布整合洛杉矶办公室并进行裁员，具体裁员人数未明。从业者可关注手游工作室优化调整趋势。",
-      "url": "https://www.gamedeveloper.com/business/kabam-making-layoffs-after-choosing-to-consolidate-la-office",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-19T15:24:51"
-    },
-    {
-      "title": "新游戏汇总：宝可梦、王国保卫战、芭比、Century和Miniclip软启动等",
-      "description": "本周新游概览包括宝可梦新作、王国保卫战系列、芭比游戏以及Century和Miniclip的软启动。休闲游戏从业者可关注新作动态和发行趋势。",
-      "url": "https://mobilegamer.biz/new-game-digest-pokemon-kingdom-rush-barbie-soft-launches-from-century-and-miniclip-more/",
+      "title": "Playrix、Century、Zynga等厂商的软启动游戏你需要了解",
+      "description": "本文汇总了手游行业顶级发行商正在测试的软启动游戏，包括Playrix等休闲游戏大厂。从业者可借此洞察最新市场测试动态和趋势。",
+      "url": "https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-19T09:37:42"
+      "score": 7,
+      "published_at": "2026-06-21T23:01:00"
     },
     {
-      "title": "新行业新身份：2026年加拿大开发者现状",
-      "description": "在加拿大XP游戏峰会上，开发者分享了动荡时期的生存状况。适合关注全球游戏开发环境变化的从业者。",
-      "url": "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identity-how-canadian-devs-are-faring-in-2026",
-      "source": "Game Developer",
+      "title": "乐高游戏30周年",
+      "description": "Naavik分析乐高游戏业务30年发展历程，涵盖数字和实体产品，对于了解跨IP游戏运营有一定参考价值。",
+      "url": "https://naavik.co/digest/30-years-of-gaming-at-lego/",
+      "source": "Naavik",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-06-18T17:59:13"
+      "published_at": "2026-06-21T17:30:00"
     },
     {
-      "title": "Pocketpair负责人：玩家不想要生成式AI",
-      "description": "Pocketpair通信总监表示生成式AI不会成为主流，玩家不感兴趣。对休闲游戏AI应用方向有参考。",
-      "url": "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-t-want-it",
-      "source": "Game Developer",
+      "title": "洁身自好，读书看报，核周报6.20",
+      "description": "涵盖EA广告平台、Xbox裁员、Steam新品节等游戏行业新闻，其中EA广告平台涉及游戏变现领域，有一定间接相关性。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a34b1274233e62bc54c3db3",
+      "source": "播客-机核游戏频道",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-06-18T15:46:44"
+      "published_at": "2026-06-20T15:00:00"
     },
     {
-      "title": "吸血鬼幸存者开发者在Epic AI声明后重新审视与堡垒之夜的联动",
-      "description": "Poncle在合作宣布后数小时表达疑虑，正在重新评估。从业者可关注AI政策对游戏合作的影响。",
-      "url": "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fortnite-collab-after-ai-usage-news",
-      "source": "Game Developer",
+      "title": "游戏化在现代游戏中仍在进化吗？",
+      "description": "探讨游戏化机制在现代游戏中的演进，对休闲游戏中的激励设计有一定启发，但内容深度一般。",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlhvN0xvMVdmZ0piYnBiV21ZLWhKS005dEt6aVBEcnZjWV9Sc1UxOFlYZnVIalh1c0tsanc3T3lJVHZDRF9fR21vbG9XZlMxLUNwQ0RMUXBQaEEweVBqekU3cTE5YVZzWGl0cEYxcTZDM01wVDdqZXc0NEx4c0tPTjBfcUkyR1d5MXc?oc=5",
+      "source": "Google News",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-06-18T14:44:30"
+      "published_at": "2026-06-18T10:46:36"
     }
   ]
 }
