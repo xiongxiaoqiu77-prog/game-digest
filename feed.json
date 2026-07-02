@@ -1,303 +1,60 @@
 {
-  "updated": "2026-07-02",
-  "generated_at": "2026-07-02T10:31:08.785160",
+  "updated": "2026-07-03",
+  "generated_at": "2026-07-03T06:46:46.212317",
   "articles": [
     {
-      "title": "《Clash of Critters》拆解：为什么莉莉丝开始抢休闲游戏饭碗？",
-      "description": "本文深入拆解莉莉丝新游《Clash of Critters》的Hybrid模式，指出其核心并非玩法缝合，而是将获客与变现分离，用休闲内容吸引用户、重度机制留住玩家。对从业者理解混合休闲设计有重要参考价值。",
-      "url": "https://mp.weixin.qq.com/s/rA-R6Ublaw4vF_bPjTyKzw",
-      "source": "微信-DennisLook",
-      "category": "深度拆解",
-      "score": 10,
-      "published_at": "2026-07-01T15:48:23"
-    },
-    {
-      "title": "中国小游戏出圈，这套验证模式西方能学吗？",
-      "description": "文章深度剖析微信小游戏作为前置验证平台的价值，包括低成本获客、混合变现、数据测试等机制，指出西方市场可借鉴这种轻量化验证模式。对出海公司控制试错成本极为重要。",
-      "url": "https://mp.weixin.qq.com/s/XI9E9DEPA3pHCN5wImUhig",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-06-30T07:39:24"
-    },
-    {
-      "title": "合成游戏的变现能力比三消游戏更强吗？",
-      "description": "深入探讨合成类游戏与三消类游戏的变现能力对比，分析变现逻辑和设计差异。对休闲游戏开发者和运营者有直接参考价值。",
-      "url": "https://mp.weixin.qq.com/s/AJDdOtKAcJbZfE80NUS5Vg",
-      "source": "微信-独立出海联合体",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-07-01T10:00:00"
-    },
-    {
-      "title": "聊聊休闲游戏关卡设计",
-      "description": "专业文章深入探讨休闲游戏（尤其是三消/消除类）的关卡设计方法论，对从业者提升关卡设计能力有直接参考价值。来源靠谱，内容聚焦。",
-      "url": "https://mp.weixin.qq.com/s/6gFcewGSVmMFsKst9YIZ2g",
-      "source": "微信-熊猫游戏出海",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-07-01T03:58:00"
-    },
-    {
-      "title": "从土耳其团队Flow新爆款《Smash Fest》提取下一款爆款原型的关键词",
-      "description": "拆解土耳其团队Flow的爆款《Smash Fest》，提炼可复用的休闲游戏设计原型和关键词，为开发者和策划提供创新灵感。",
-      "url": "https://mp.weixin.qq.com/s/7i1il46s42u0oEbgGQvGXA",
-      "source": "微信-游戏本稚",
-      "category": "深度拆解",
-      "score": 9,
-      "published_at": "2026-07-01T02:31:51"
-    },
-    {
-      "title": "全球下载超80亿，IAP收入两年增长超140%，SayGames如何用关卡难度撬动混合休闲增长？",
-      "description": "文章解析SayGames在混合休闲方向的增长策略，聚焦关卡难度设计如何推动IAP收入快速增长。适合关注混合变现和休闲游戏长线运营的从业者阅读。",
-      "url": "https://mp.weixin.qq.com/s/NVRM-S_R0W9WlDz4GRM0PA",
-      "source": "微信-罗斯基",
-      "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-07-01T15:23:00"
-    },
-    {
-      "title": "4399轻MMO打到欧美：小游戏验证后还能再跑一波？",
-      "description": "介绍4399在欧美市场测试轻量化MMO的出海策略，通过小游戏前置验证玩法与商业化数据，降低立项风险。对中小团队出海有借鉴意义。",
-      "url": "https://mp.weixin.qq.com/s/4ZEWr8fntgLNPhCo6g8dlg",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-07-01T10:24:44"
-    },
-    {
-      "title": "浅析休闲游戏的排行榜活动设计",
-      "description": "6000字长文深度拆解休闲游戏中排行榜活动的设计原理、运营策略与商业化逻辑。适合休闲游戏运营和策划团队学习。",
-      "url": "https://mp.weixin.qq.com/s/srz8_sFA1FjuK-pV9Q1JDQ",
-      "source": "微信-车尔斯基的游戏运营杂谈",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-02T00:00:00"
-    },
-    {
-      "title": "年下载超10亿，一年暴涨10倍？这些冷门国家正在成为下一个土耳其",
-      "description": "报告指出土耳其、越南等传统市场竞争加剧，游戏公司开始转向冷门国家寻找增量。为出海厂商拓展新市场提供数据参考。",
-      "url": "https://mp.weixin.qq.com/s/VOIHccala2qraLOyEN3I8w",
-      "source": "微信-罗斯基",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-01T15:23:00"
-    },
-    {
-      "title": "月活破10亿，游戏出海开始流行在ChatGPT里买广告？｜对谈Nexad COO Harry Zhou",
-      "description": "探讨ChatGPT作为新兴广告投放渠道的潜力，采访Nexad COO分享实际投放经验。为游戏出海买量提供新思路。",
-      "url": "https://mp.weixin.qq.com/s/1X7eng_1BiBZ5hu3sCO_xQ",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-06-30T11:37:36"
-    },
-    {
-      "title": "4399搜打撤来了，主打轻量化PVP战斗",
-      "description": "介绍4399旗下子公司新研发的轻量化PVP游戏，延续其小游戏验证后的出海策略。关注休闲化PVP玩法的团队可以参考。",
-      "url": "https://mp.weixin.qq.com/s/HdGCR-UiL31wa6qLziuD-g",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-06-30T11:37:36"
-    },
-    {
-      "title": "近期SLG和休闲Puzzle测试产品汇总",
-      "description": "汇总近期国内外测试的SLG和休闲益智游戏产品，提供市场动态参考。适合关注新品竞争格局的从业者。",
-      "url": "https://mp.weixin.qq.com/s/h84I2GcOETuntYk-ve9w4g",
-      "source": "微信-王董的新游戏",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-06-30T01:46:00"
-    },
-    {
-      "title": "Google Play新规落地：30%分成被砍，欧美安卓流水利润率重算",
-      "description": "Google Play推出新规，降低部分应用的30%抽成比例，直接影响欧美安卓手游开发者的收入计算。休闲游戏开发者需关注这一政策变化以调整变现策略。",
-      "url": "https://mp.weixin.qq.com/s/R6HuCGZC2ZbvQ6QbxtNLkQ",
-      "source": "微信-白鲸出海",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-01T13:30:00"
-    },
-    {
-      "title": "中重度+休闲玩法双线突围！5月全球手游运营玩法创新全盘点",
-      "description": "盘点2026年5月全球手游运营玩法创新，涵盖混合玩法、分层付费、跨品类联动等策略。休闲游戏从业者可从中获取头部游戏活动设计新打法和趋势参考。",
-      "url": "https://mp.weixin.qq.com/s/vnDGNZnQqaZwjWb_ezoPUQ",
-      "source": "微信-Liftoff",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-06-30T04:30:00"
-    },
-    {
-      "title": "BP+靶心还能这么融？《爆爆王国》的双人组队弹球体验太爽了！",
-      "description": "介绍一款融合BP（弹珠）和肉鸽靶心玩法的双人组队休闲游戏，分享玩法体验。可作为休闲游戏创意参考。",
-      "url": "https://mp.weixin.qq.com/s/rmWSBusTVdK9ac3h8ZkKYw",
-      "source": "微信-急速行走的小U盘",
-      "category": "泛游戏",
-      "score": 6,
-      "published_at": "2026-07-01T23:30:00"
-    },
-    {
-      "title": "AI游戏创作平台首进下载TOP30，莉莉丝'捉宠+弹珠机'新游月流水破亿",
-      "description": "报道了AI游戏创作平台首次进入下载榜TOP30，以及莉莉丝新游结合捉宠与弹珠机玩法实现月流水破亿。展示了AI赋能和玩法创新的成功案例，对出海休闲游戏有启示。",
-      "url": "https://mp.weixin.qq.com/s/mGtOD5Pus6qhrt7lzCv7Tw",
-      "source": "微信-扬帆出海",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-01T12:42:04"
-    },
-    {
-      "title": "6月全球最赚钱手游：某二游暴涨后日入3000万",
-      "description": "分析了2026年6月全球手游收入排名，某二次元游戏收入暴涨249%，日流水达3000万人民币。为休闲游戏开发者提供市场收入动态参考。",
-      "url": "https://mp.weixin.qq.com/s/k1yVmig_1EZxzHXAR-T0Tg",
-      "source": "微信-游戏日报",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-01T11:38:47"
-    },
-    {
-      "title": "登顶taptap新品No.1！4399女性向《童话师》的种花装扮循环有点甜！",
-      "description": "介绍4399女性向新游《童话师》，主打种花装扮循环玩法，属于休闲游戏范畴，但内容为资讯快报而非深度设计分析，对了解新游动向有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/Jm5v3RChEh_96X-nHLYN4g",
-      "source": "微信-急速行走的小U盘",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-06-30T23:30:00"
-    },
-    {
-      "title": "聚焦游戏出海资金合规：支付封锁、退款争议与虚假折扣的法律实践",
-      "description": "深入分析游戏出海中的资金合规问题，包括支付封锁、退款争议和虚假折扣的法律实践。对休闲游戏出海变现有实质指导价值。",
-      "url": "https://mp.weixin.qq.com/s/fMLaiBIpO4Ia1IFYM5VGVg",
-      "source": "微信-独立出海联合体",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-06-30T10:00:41"
-    },
-    {
-      "title": "《恋与深空》撤回新男主后，全球玩家为何吵成两边？",
-      "description": "分析叠纸发行失误，指出不同市场预期管理不足导致玩家争议。对全球发行的预期管理有警示意义。",
-      "url": "https://mp.weixin.qq.com/s/KkrS57NpohfvHBnjaZI2eg",
-      "source": "微信-GameMarket洞察",
+      "title": "MTG聘请前Supercell高管领导欧洲最大中核游戏工作室群的市场营销",
+      "description": "瑞典游戏集团MTG任命前Supercell及汉堡王营销负责人Iwo Zakowski，负责Plarium、InnoGames、Snowprint等工作室的市场策略。此人事变动对手游营销策略有参考意义。",
+      "url": "https://mobilegamer.biz/mtg-taps-supercell-exec-to-lead-marketing-at-europes-largest-collection-of-midcore-studios/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-02T00:14:00"
+      "published_at": "2026-07-02T13:48:23"
     },
     {
-      "title": "7月6日，千人裁员令？微软游戏部门“重置”背后，谁在被牺牲？",
-      "description": "报道微软Xbox部门裁员和战略收缩，分析其将资源集中到第一方阵容。对了解主机平台动向有帮助。",
-      "url": "https://mp.weixin.qq.com/s/NQOpcKLNPp1KcICPtNpIIg",
-      "source": "微信-GameMarket洞察",
+      "title": "Tebex数据显示创作者分发折扣码能显著提升游戏商店销量",
+      "description": "Tebex研究指出，内容创作者向社区分发的游戏折扣码能为商店带来可观额外收入，但主要由头部创作者驱动。为休闲游戏运营和用户获取策略提供数据参考。",
+      "url": "https://www.gamesindustry.biz/creator-distributed-discount-codes-drive-massive-uptake-of-game-storefronts-according-to-new-tebex-data",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-02T00:14:00"
+      "published_at": "2026-07-02T13:00:00"
     },
     {
-      "title": "前腾讯网易员工团队将AI游戏世界成本降低80%",
-      "description": "介绍了一支由前腾讯、网易员工组成的团队，通过技术手段大幅降低AI生成游戏世界的成本。对游戏行业AI应用有参考价值，但未聚焦休闲游戏。",
-      "url": "https://mp.weixin.qq.com/s/H4Xa5nBce8Xgy18i55KmQQ",
-      "source": "微信-竞核",
+      "title": "世嘉欧洲高管Jurgen Post离职，Rovio高管Alex Pelletier-Normand接任",
+      "description": "世嘉欧洲西部工作室COO变更，由Rovio高管接替。Rovio是休闲游戏巨头，该人事变动可能影响休闲手游领域的战略方向。",
+      "url": "https://www.gamesindustry.biz/sega-europe-vet-post-steps-down-as-west-studios-coo-rovios-pelletier-normand-taking-his-place",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-01T13:02:29"
+      "published_at": "2026-07-02T12:00:00"
     },
     {
-      "title": "2026上半年游戏大厂裁员数量已接近2025全年",
-      "description": "统计显示2026年上半年全球游戏大厂裁员总数已接近2025年全年水平，反映了行业持续收缩的趋势。休闲游戏从业者需关注市场环境变化。",
-      "url": "https://mp.weixin.qq.com/s/SuzlMeZ_Wyp6uySR5vWMdQ",
-      "source": "微信-游戏葡萄",
+      "title": "Godot引擎禁止“自主AI代理使用”或“vibe coding”代码贡献",
+      "description": "Godot更新贡献政策，禁止AI自动生成的代码提交，以减少质量干扰。涉及游戏开发工具规范，对休闲游戏开发团队有参考价值。",
+      "url": "https://www.gamesindustry.biz/godot-bans-autonomous-ai-agent-use-or-vibe-coded-contributions",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-01T12:58:52"
+      "published_at": "2026-07-01T20:59:41"
     },
     {
-      "title": "《传奇》IP母公司娱美德49亿易主，买方疑似阿里系？",
-      "description": "娱美德公司被收购，涉及传奇IP。对休闲游戏从业者参考价值有限。",
-      "url": "https://mp.weixin.qq.com/s/VuXy-q75l5Wyluq89vcaBQ",
-      "source": "微信-游戏葡萄",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-01T11:00:39"
-    },
-    {
-      "title": "多到玩不过来？今年暑假国产游戏热闹非凡竞争激烈~",
-      "description": "概述2026年暑假国产游戏市场繁荣，竞争激烈。可作为市场环境参考。",
-      "url": "https://mp.weixin.qq.com/s/LtL-xnB9OGrpFn5E8eBOcg",
-      "source": "微信-GameRes游资网",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-01T10:55:55"
-    },
-    {
-      "title": "Stillfront 寻求新任CEO，Alexis Bonte 即将卸任",
-      "description": "Stillfront公司CEO变更新闻。Stillfront旗下有多款休闲游戏，可关注管理层变动。",
-      "url": "https://mp.weixin.qq.com/s/YyiV9lW2YOb5qr899D0MRg",
-      "source": "微信-独立出海联合体",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-01T10:00:00"
-    },
-    {
-      "title": "游戏运营们如何用AI写好日报周报月报？（附AI提示词）",
-      "description": "提供游戏运营使用AI撰写报告的技巧和提示词。实用工具类内容。",
-      "url": "https://mp.weixin.qq.com/s/X5xw8Ulf5SDOzWo2TfNrzw",
-      "source": "微信-尤里卡的游戏运营笔记",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-01T08:06:10"
-    },
-    {
-      "title": "6月最新版号信息！多款疑似SLG游戏，又是三国题材",
-      "description": "报道6月进口游戏版号情况，重点提及《北境之地》等SLG及三国题材新品。虽然非休闲消除类，但版号政策对全手游行业有参考意义。",
-      "url": "https://mp.weixin.qq.com/s/TfpeJwnUy-2CVJ3kE2CvxA",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-30T14:36:51"
-    },
-    {
-      "title": "流量格局重划，当ChatGPT开始放量",
-      "description": "文章分析ChatGPT作为新兴流量渠道的机会，为出海企业提供入局建议。休闲游戏买量可关注AI内容分发趋势，有一定参考价值。",
-      "url": "https://mp.weixin.qq.com/s/tPOk4pfBhM-t2mI2Hdz0HA",
-      "source": "微信-白鲸出海",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-30T13:30:00"
-    },
-    {
-      "title": "纯正美国味？说唱题材出海新品跑出200w+月下载量",
-      "description": "介绍一款说唱题材的出海手游月下载量超200万，强调文化题材对海外用户吸引力。休闲游戏可借鉴其文化差异化策略，拓展海外市场。",
-      "url": "https://mp.weixin.qq.com/s/MQJ8a9bSGtSSnkTK74ykNw",
-      "source": "微信-白鲸出海",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-30T13:30:00"
-    },
-    {
-      "title": "报告：NBCUniversal分拆后可能进军游戏业务",
-      "description": "NBCUniversal新CEO表示公司有意探索游戏等相邻业务，反映媒体巨头跨界游戏趋势。对休闲游戏从业者了解行业竞争格局有一定价值。",
-      "url": "https://www.gamedeveloper.com/business/report-nbcuniversal-could-expand-into-games-after-comcast-spinoff",
+      "title": "Godot将禁止（几乎全部）AI编码贡献",
+      "description": "Godot引擎进一步明确AI辅助开发限制，允许代码补全等基础工具但禁止全自动生成。对休闲游戏开发者选择引擎和工具链有启示。",
+      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-06-30T11:44:14"
+      "published_at": "2026-07-01T18:14:09"
     },
     {
-      "title": "等下，你说Epic还是想做元宇宙？",
-      "description": "探讨Epic在《堡垒之夜》等游戏中布局元宇宙，如跨游戏资产互通和社交功能。对理解大厂战略方向有参考，与休闲游戏关联较弱。",
-      "url": "https://mp.weixin.qq.com/s/4dYm79NjgiKVUGXKDUnv2Q",
-      "source": "微信-游戏花火",
+      "title": "每周游戏报告回顾：2026年6月22日至26日",
+      "description": "一篇游戏行业每周新闻汇总，内容泛泛且未聚焦休闲游戏，仅可作为通用行业动态参考。",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wYUtScTM4NnRxMWJCdUk3T1cxcHFIeXJ1YWRyYlJGRDE3eXV1VkFCVkRibjNSMXdUWUh4cE1DQzNmYmhXWXVGS3lqTEhLSk5vdWpnS1gxRWNzckp4eDZNVFVaMnpsWGIwVTdWaGgwZ3FMQ3VsWDB1YzNWOTBDcEk?oc=5",
+      "source": "Google News",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-06-30T10:20:54"
-    },
-    {
-      "title": "对话无畏契约首张中国地图设计师：数百人开发，我们要真正的“中国味儿”",
-      "description": "采访《无畏契约》中国地图设计师，探讨文化元素融入关卡设计的思路。对游戏设计文化本地化有参考，但非休闲品类。",
-      "url": "https://mp.weixin.qq.com/s/zbGfbbbX0221b3iqu3rCBw",
-      "source": "微信-游戏日报",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-06-30T09:45:07"
+      "published_at": "2026-06-26T19:52:04"
     }
   ]
 }
