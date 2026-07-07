@@ -1,240 +1,177 @@
 {
-  "updated": "2026-07-07",
-  "generated_at": "2026-07-07T06:49:53.918424",
+  "updated": "2026-07-08",
+  "generated_at": "2026-07-08T06:49:26.193999",
   "articles": [
     {
-      "title": "系统设计思考：怎样避免MMO中的治疗职业成为「背锅位」？",
-      "description": "本文深入探讨了MMO游戏中治疗职业常被玩家指责的设计问题，从系统层面分析了如何避免治疗职业成为“背锅位”，对游戏平衡设计有参考价值。适合关注游戏系统设计的从业者阅读。",
-      "url": "https://mp.weixin.qq.com/s/O6iavxldt6jP6miArClL8A",
-      "source": "微信-无界游戏学社",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-06T17:00:00"
-    },
-    {
-      "title": "只靠“玩梗”真的能撑起一款游戏吗？——对《奥星热浪》的产业分析",
-      "description": "文章分析了《奥星热浪》游戏的产品定位，指出其杂糅了多种元素但不够精致，探讨了仅靠玩梗和社交玩法能否在红海市场中成功，对理解当前游戏市场趋势有启发。",
-      "url": "https://mp.weixin.qq.com/s/D4w2_xbV0tbqvvVIyNpqkw",
-      "source": "微信-游戏花火",
+      "title": "效果营销能否最终在 Steam 上奏效？",
+      "description": "文章探讨 PC/主机游戏领域缺乏效果营销实践，对比手游成熟的 UA 体系。休闲游戏从业者可从中了解跨平台用户获取的差异与机会。",
+      "url": "https://naavik.co/podcast/can-performance-marketing-finally-work-on-steam/",
+      "source": "Naavik",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-06T18:44:24"
+      "published_at": "2026-07-07T12:07:58"
     },
     {
-      "title": "55亿用户，《三角洲行动》成功的背后不仅仅是人数",
-      "description": "文章分析了《三角洲行动》为何能获得55亿用户，探讨其成功因素除了人多之外还有哪些，对理解射击游戏市场有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/lq_ewA3ibiz3gRGdAghw_w",
-      "source": "微信-游戏日报",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-06T17:59:30"
-    },
-    {
-      "title": "Xbox裁员3200人，King和Mojang直接向新领导汇报",
-      "description": "微软Xbox部门进行大规模裁员，同时将King和Mojang工作室调整为直接向负责人Asha Sharma汇报，对休闲游戏厂商King的未来战略有影响，值得休闲游戏从业者关注。",
-      "url": "https://mobilegamer.biz/xbox-axes-3200-jobs-king-and-mojang-to-report-directly-to-boss-asha-sharma/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-06T14:17:17"
-    },
-    {
-      "title": "Scopely资助赛马娘制作人创立新工作室",
-      "description": "《Monopoly Go》开发商Scopely投资日本市场，资助《赛马娘》核心制作人新工作室。直接涉及休闲游戏巨头海外布局，对从业者了解大厂动态有价值。",
-      "url": "https://mobilegamer.biz/scopely-helps-fund-the-new-studio-from-the-mind-behind-umamusume-pretty-derby/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-06T11:31:31"
-    },
-    {
-      "title": "游戏卖爆了，我却在庆功宴后被裁了",
-      "description": "IO Interactive旗下007新作首日销量150万份、首周270万份创纪录，但公司随后宣布裁员。反映了游戏行业“叫好不叫座”或公司战略调整的常见现象，对从业者有警示意义。",
-      "url": "https://mp.weixin.qq.com/s/Ru2gsYM1x_oSPScF-DBipg",
-      "source": "微信-GameQuest",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-05T23:26:36"
-    },
-    {
-      "title": "拼多多蹭《原神》被罚百万，大厂10亿布局AI，6月171款版号下发 | 陀螺周报",
-      "description": "游戏行业一周动态汇总，包括拼多多侵权《原神》案例、大厂AI投入、版号发放情况等，信息密度较高，适合快速了解行业近况。",
-      "url": "https://mp.weixin.qq.com/s/Fkh7VKMnW9QT3r2Tb4SeJA",
-      "source": "微信-游戏陀螺",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-05T19:12:05"
-    },
-    {
-      "title": "“Bring Back Valko”刷屏之后，《恋与深空》的全球舆论战才刚开始",
-      "description": "分析《恋与深空》因角色Valko引发的全球玩家舆论事件，探讨叠纸如何应对多市场玩家诉求。涉及全球化运营与舆情管理，对出海手游团队有借鉴意义。",
-      "url": "https://mp.weixin.qq.com/s/nD4HyWgyts3VVfiG2PDUGQ",
-      "source": "微信-GameMarket洞察",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-05T09:06:00"
-    },
-    {
-      "title": "Compulsion Games和Double Fine确认从Xbox脱离独立",
-      "description": "微软进行新一轮裁员和剥离，Compulsion Games和Double Fine两家工作室宣布独立，反映了主机游戏行业的结构调整，对了解行业动态有参考价值。",
-      "url": "https://www.gamesindustry.biz/compulsion-games-and-double-fine-confirm-independence-day-from-xbox",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T21:42:55"
-    },
-    {
-      "title": "Epic Games与前承包商就泄露《堡垒之夜》未公布合作内容达成和解",
-      "description": "Epic Games解决了与前承包商的法律纠纷，该承包商被指控泄露了《堡垒之夜》与Minecraft等IP的合作计划，对了解游戏法务和IP管理有一定意义。",
-      "url": "https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T21:15:27"
-    },
-    {
-      "title": "最难改编的小说遇上屡被唱衰的MMO——谈游戏改编挑战",
-      "description": "文章探讨了将一部难改编的小说制作成MMO游戏所面临的挑战和坚持，对游戏IP改编有一定启示。",
-      "url": "https://mp.weixin.qq.com/s/FP34IIo0Bw7HycvRT_Dj2g",
-      "source": "微信-游戏矩阵 GameMatrix",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T17:58:27"
-    },
-    {
-      "title": "复盘：用Codex做Cocos游戏课，75个付费用户赚了多少钱？",
-      "description": "作者分享了自己利用AI Codex工具制作Cocos游戏开发课程并获得75个付费用户的经历与收入情况，对探索游戏教育变现方式有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/OrAIhwDg7XX4NKWuv4CqLg",
-      "source": "微信-晓衡的游戏开发圈",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T17:17:32"
-    },
-    {
-      "title": "Xbox裁员：Obsidian、Bethesda、id Software和Zenimax Online Studios受到波及",
-      "description": "微软Xbox部门新一轮裁员涉及多个知名工作室，反映了主机游戏行业的不景气，对关注行业动态的从业者有参考价值。",
-      "url": "https://www.gamesindustry.biz/xbox-layoffs-july-2026",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T16:45:32"
-    },
-    {
-      "title": "任天堂将在欧洲停止销售初代Switch",
-      "description": "任天堂计划于2027年2月停止向零售商供应初代Switch，标志着Switch生命周期进入尾声，对游戏硬件市场和开发者有影响。",
-      "url": "https://www.gamedeveloper.com/business/nintendo-is-winding-down-switch-1-sales-in-europe",
+      "title": "Supercell 为非洲工作室启动开发者资助计划",
+      "description": "Supercell 宣布推出面向非洲游戏工作室的无股权资助计划，资助金额从 2 万到 20 万美元不等。该新闻为休闲游戏厂商关注新兴市场人才提供了参考。",
+      "url": "https://www.gamedeveloper.com/business/supercell-starts-developer-grants-program-for-studios-across-africa",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-06T16:06:02"
+      "published_at": "2026-07-07T16:28:44"
     },
     {
-      "title": "Xbox裁员3200人，与Double Fine等五家工作室分道扬镳",
-      "description": "Xbox宣布裁员3200人（占20%），并剥离Double Fine、Compulsion、Ninja Theory等五个工作室。此事件反映主机/PC行业动荡，对休闲游戏从业者而言直接关联有限，但可关注行业资本收缩趋势。",
-      "url": "https://www.gamedeveloper.com/business/xbox-cutting-3-200-jobs-and-parting-ways-with-double-fine-compulsion-ninja-theory-and-undead-labs",
+      "title": "Meta 低调软启动 AI 驱动的“游戏版 TikTok”Pocket",
+      "description": "Meta 通过收购 Gizmo 团队获得了 Pocket 应用，并开始软启动这款 AI 驱动的游戏发现平台。休闲游戏从业者可关注其分发模式对用户获取的潜在影响。",
+      "url": "https://mobilegamer.biz/meta-quietly-soft-launches-pocket-its-take-on-an-ai-powered-tiktok-for-games/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-07T15:02:30"
+    },
+    {
+      "title": "Niantic 游戏团队更名为 Scopely Explore",
+      "description": "Niantic 旗下《宝可梦GO》等团队在 Scopely 收购一年后正式更名。休闲手游从业者可关注这起大型收购后品牌整合动向。",
+      "url": "https://mobilegamer.biz/niantics-games-team-has-rebranded-as-scopely-explore/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-07T08:32:28"
+    },
+    {
+      "title": "索尼高层表示 AI 工具是'支撑我们战略的重要基础技术'",
+      "description": "索尼强调 AI 在游戏开发中消除重复任务、加速迭代的价值。休闲游戏从业者可思考 AI 在关卡设计、数值调优等环节的应用潜力。",
+      "url": "https://www.gamesindustry.biz/sony-leadership-says-ai-tools-are-an-important-foundational-technology-supporting-our-strategy",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-07T06:41:04"
+    },
+    {
+      "title": "报告：黑曜石工作室因‘Xbox重置’流失约四分之一员工",
+      "description": "据报道，《Pentiment》和《天外世界》开发商黑曜石工作室在裁员中流失60-70名员工。这反映了Xbox业务重组对工作室的影响，对关注游戏行业动态的从业者有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-quarter-of-its-staff-to-xbox-reset-",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-06T14:01:08"
+      "published_at": "2026-07-07T00:04:26"
     },
     {
-      "title": "Xbox宣布裁员3200人并剥离五家工作室",
-      "description": "Xbox作为其此前宣布的“重置”计划一部分，将裁员3200人并剥离五个工作室。这是游戏行业重大事件，对休闲游戏领域影响间接，但体现了整体市场调整压力。",
-      "url": "https://www.gamesindustry.biz/xbox-to-reduce-workforce-by-3200-five-studios-to-be-divested",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T13:53:54"
-    },
-    {
-      "title": "专访：GDC疲软之际，科隆游戏展却蒸蒸日上",
-      "description": "文章对比了GDC与科隆游戏展的发展态势，指出行业展会格局变化。对休闲游戏从业者而言，了解展会动态有助于市场活动规划，但非直接相关。",
-      "url": "https://www.gamesindustry.biz/interview-while-gdc-falters-gamescom-goes-from-strength-to-strength",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T13:30:14"
-    },
-    {
-      "title": "前作狂揽30亿，新作上线即登顶！这款老IP终于不把玩家当韭菜了？",
-      "description": "报道某手游IP新作上线即登顶，前作累计收入30亿。涉及休闲/手游市场表现，对从业者了解成功IP运营有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/_JaoNJ4rlgKxbvsMhLYqdA",
-      "source": "微信-游讯先锋",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-06T08:54:00"
-    },
-    {
-      "title": "【六月】下旬SLG游戏排行榜：第二梯队新增虎将，腾讯流水大涨，新游也来了",
-      "description": "六月下旬SLG手游流水与排名数据盘点，重点提及腾讯系产品增长及新游表现。虽非休闲三消品类，但可侧面了解整体手游市场动态。",
-      "url": "https://mp.weixin.qq.com/s/IA8pf4m5XSGbFC8EEg0gZA",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-05T22:34:08"
-    },
-    {
-      "title": "【六月】下旬SLG六幻神排行榜：赛季制彻底败了，小游戏赢麻了",
-      "description": "SLG六幻神榜单出现罕见排名更迭，赛季制产品表现不佳而小游戏形式崛起。反映SLG赛道内玩法趋势变迁，对手游从业者有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/tg_j6HCY8QdIN59YejPizQ",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-05T22:34:08"
-    },
-    {
-      "title": "【六月】上旬手游畅销榜：第一名涨幅巨大！B站赢麻了",
-      "description": "六月上旬手游畅销榜前六名流水数据公开，重点分析头部产品涨幅及B站相关游戏表现。属于市场数据快报，可作行业背景参考。",
-      "url": "https://mp.weixin.qq.com/s/cnG6RRckclKJxORSnDcu9A",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-05T22:34:08"
-    },
-    {
-      "title": "【六月】中旬SLG游戏排行榜：灵犀护城河很深，腾讯包揽第三梯队，九牧和启元又杀出来了",
-      "description": "六月中旬SLG游戏排行榜分析，灵犀互娱优势稳固，腾讯占据第三梯队，新游表现突出。对SLG品类从业者有一定数据参考价值。",
-      "url": "https://mp.weixin.qq.com/s/7g7ukyJuIZ2EQlbRBKjvcw",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-05T22:34:08"
-    },
-    {
-      "title": "【六月】中旬流水排行榜，六幻神只有两款上涨，网易成守门员",
-      "description": "六月中旬SLG六幻神流水数据，仅率土之滨等两款产品上涨，网易旗下产品处于榜单末尾。提供SLG市场近期趋势的量化视角。",
-      "url": "https://mp.weixin.qq.com/s/eicZ2olMfjGdPX7tilUsHQ",
-      "source": "微信-百游录",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-05T22:34:08"
-    },
-    {
-      "title": "一周要闻NO.207丨英伟达机器人团队开放招聘；《传奇》IP母公司娱美德49亿易主；意大利2欧元税推迟10月执行；Anthropic官宣Fable5全球解禁",
-      "description": "出海游戏行业一周要闻汇总，涵盖娱美德并购、意大利数字税推迟、AI新动作等，为全球化从业者提供宏观行业动态。",
-      "url": "https://mp.weixin.qq.com/s/AH2aZjgFn7Iww6kZbsUcgw",
+      "title": "2026 ChinaJoy同期系列活动——派对篇",
+      "description": "介绍了ChinaJoy期间的两场派对活动，包括活动时间和地点。对计划参加CJ的从业者有用，但无深度分析。",
+      "url": "https://mp.weixin.qq.com/s/zZr3sgr9M71OhrXpSIJVxg",
       "source": "微信-扬帆出海",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-05T21:28:29"
+      "published_at": "2026-07-06T17:29:37"
     },
     {
-      "title": "《无敌舰队》寻中国发行；找Google/Tiktok代理开户；国内短剧采购合作；海外本土AI仿真人首发剧合作｜扬帆每周合作精选No.213",
-      "description": "出海合作需求集合，含游戏发行、广告代理、短剧采购等商机信息。对寻求海外合作资源的从业者具有一定实用价值。",
-      "url": "https://mp.weixin.qq.com/s/PUW7rpPxYjb83zoAd2iDSQ",
-      "source": "微信-扬帆出海",
+      "title": "玩《原神》就能拿奖学金？硅谷大学推出游戏成就奖学金最高1.5万美元",
+      "description": "硅谷大学推出极限成就奖学金，学生完成指定游戏高难度成就可获学费减免。这是教育行业与游戏结合的新模式，对关注游戏社会影响力的从业者有启发。",
+      "url": "https://mp.weixin.qq.com/s/TTL2CA73Lqo7IXSrFOrOAA",
+      "source": "微信-游创工坊",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-05T21:28:29"
+      "published_at": "2026-07-06T14:53:43"
     },
     {
-      "title": "拼多多赔偿米哈游100万，因「一元抢原石」| 一周说「法」",
-      "description": "法律案例分析，拼多多因推出“一元抢原石”活动被米哈游起诉并赔偿100万。涉及游戏IP保护与渠道合规，对游戏法务与运营有参考意义。",
-      "url": "https://mp.weixin.qq.com/s/R6OXlbKTcEf0FG5IrRM6oQ",
-      "source": "微信-游戏葡萄",
+      "title": "Ingress开发商Niantic关闭新西兰办公室",
+      "description": "Niantic正在从游戏和娱乐领域转向，关闭其新西兰办公室。反映了AR游戏公司的战略调整，对休闲游戏从业者有警示意义。",
+      "url": "https://www.gamedeveloper.com/business/ingress-developer-niantic-spatial-shuttering-new-zealand-office",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-05T14:24:16"
+      "published_at": "2026-07-06T13:28:32"
+    },
+    {
+      "title": "索尼宣布停产实体光盘，玩家集体抗议成热梗！",
+      "description": "索尼宣布新游戏停止生产实体光盘，引发玩家抗议。这是主机游戏行业的重要变化，对关注数字发行趋势的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/k7d9AR6R8sKcZePz4-91PQ",
+      "source": "微信-游创工坊",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-06T12:00:00"
+    },
+    {
+      "title": "出海周报：阿里全面禁用Claude、索尼2028年停产实体光盘、DeepSeek峰谷定价等",
+      "description": "汇总了本周出海相关的重要动态，包括AI限制、索尼停产、Steam榜单规则调整等。对出海游戏从业者具有综合参考价值。",
+      "url": "https://mp.weixin.qq.com/s/xRX8CWeeZ_CrrBG99D0O1A",
+      "source": "微信-点点出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-06T12:00:00"
+    },
+    {
+      "title": "EVE Online的跨平台游戏引擎框架现已完全开源",
+      "description": "《EVE Online》背后的Carbon引擎框架已完全开源，对游戏技术开发者和引擎研究者有参考价值。",
+      "url": "https://www.gamedeveloper.com/production/eve-online-s-cross-platform-game-engine-framework-is-now-fully-open-source",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-06T11:49:45"
+    },
+    {
+      "title": "美国游戏工会为被裁开发者设立困难基金",
+      "description": "United Videogame Workers工会创建困难基金，援助美国和加拿大受裁员影响的行业工人。反映了游戏行业裁员问题及工会行动。",
+      "url": "https://www.gamesindustry.biz/union-launches-hardship-fund-for-laid-off-developers",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-06T09:46:40"
+    },
+    {
+      "title": "索尼澄清现有PlayStation光盘的重新订购支持",
+      "description": "索尼向开发商和发行商确认，在2028年1月停产日期后仍可重新订购现有PlayStation光盘。该消息对关注主机数字转型的游戏从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/sony-clarifies-re-order-support-for-existing-playstation-discs",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-06T07:48:10"
+    },
+    {
+      "title": "立即预“租”，核周报7.4",
+      "description": "本周游戏新闻汇总，包括Capcom新作公开、任天堂NS2价格上调、索尼停产实体盘等。提供游戏行业近期动态概览。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a49e6e92e335a35a80e3839",
+      "source": "播客-机核游戏频道",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-05T05:25:41"
+    },
+    {
+      "title": "[277]杂谈回_恋与深空做错了什么",
+      "description": "讨论索尼停止实体盘生产、《恋与深空》近期事件、微软阿里游戏业务收缩等行业新闻。涵盖手游与主机领域动态。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a4924d62e335a35a80e103f",
+      "source": "播客-游戏章鱼",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-04T15:36:25"
+    },
+    {
+      "title": "EP51.ChinaJoy 主打AI，索尼弃实体盘，Xbox光盘转数字新功能曝光",
+      "description": "播客节目总结ChinaJoy AI主题、索尼停产实体盘、Xbox数字转换功能等热点。适合快速了解行业焦点。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a472e3d9d2f57436841d146",
+      "source": "播客-游你友我",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-03T03:39:49"
+    },
+    {
+      "title": "游戏周报260703期 | 负面消息频出，游戏圈灾难性的一周",
+      "description": "详细汇总索尼实体盘停产、Bungie裁员、Xbox重组等本周游戏圈重大负面新闻。对关注行业风险的从业者有参考价值。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a46c0099d2f57436841ae32",
+      "source": "播客-游戏酒馆",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-03T00:00:00"
+    },
+    {
+      "title": "游戏酒局Vol.36｜实体版说没就这么没了，一个游戏时代的终结",
+      "description": "讨论索尼宣布2028年停产实体光盘对游戏行业的影响。适合关注游戏媒介转型的从业者。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a4574399d2f5743684119c1",
+      "source": "播客-游戏酒馆",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-02T01:00:00"
     }
   ]
 }
