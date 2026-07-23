@@ -1,618 +1,492 @@
 {
-  "updated": "2026-07-23",
-  "generated_at": "2026-07-23T06:53:33.337290",
+  "updated": "2026-07-24",
+  "generated_at": "2026-07-24T06:52:00.965228",
   "articles": [
     {
-      "title": "广告收入提升18%、内购提升51%：越南团队用玩家分层改造益智游戏的案例",
-      "description": "详细拆解越南团队对一款2000万下载益智游戏进行玩家分层改造，通过细分用户行为优化变现策略实现显著增收，是休闲游戏变现优化的经典案例。",
-      "url": "https://mp.weixin.qq.com/s/18IYJRdddnAwlEePDt8IXQ",
+      "title": "背包塔防已经让玩家疲劳，《功夫老六》为什么还能跑出来？",
+      "description": "深入分析《功夫老六》如何在背包塔防红海中突围，从沙雕IP定位、轻量级玩法设计到畅玩Top20的运营逻辑。对休闲游戏设计思路有重要启发。",
+      "url": "https://mp.weixin.qq.com/s/g9woAeYk3xuhbTq7w6nn1Q",
       "source": "微信-罗斯基",
-      "category": "深度拆解",
-      "score": 10,
-      "published_at": "2026-07-21T23:23:00"
-    },
-    {
-      "title": "Habby押注混休新公式：新游《One Lucky Day》采用老虎机玩法潜力巨大",
-      "description": "深度分析Habby新游如何利用Slot化战斗+Roguelike构筑+轻RPG养成框架，对比旗下《Dicero!》9000万营收，为混合休闲游戏研发提供重要参考。",
-      "url": "https://mp.weixin.qq.com/s/ONu2i824wjYRLmDGgBrz1A",
-      "source": "微信-点点出海",
       "category": "深度拆解",
       "score": 9,
-      "published_at": "2026-07-22T12:00:00"
+      "published_at": "2026-07-23T23:23:00"
     },
     {
-      "title": "深度解析《地铁跑酷》：移动游戏史上最长青的爆款",
-      "description": "Naavik播客专访SYBO CEO，揭秘《地铁跑酷》上线14年仍保持1-1.5亿月活的运营秘密，涵盖设计、LiveOps和长线运营。对休闲游戏从业者具有极高的学习价值。",
-      "url": "https://naavik.co/podcast/inside-subway-surfers-mobile-gamings-most-enduring-hit/",
-      "source": "Naavik",
-      "category": "深度拆解",
+      "title": "6个二合+2个三消，肯定有你关注的公司",
+      "description": "盘点6个二合游戏和2个三消游戏的相关公司动态，直接命中休闲消除领域，提供行业竞争格局参考。对三消/二合从业者极具价值。",
+      "url": "https://mp.weixin.qq.com/s/x-dmPExdFbknDdx-v65pqg",
+      "source": "微信-王董的新游戏",
+      "category": "行业资讯",
       "score": 9,
-      "published_at": "2026-07-21T12:22:22"
+      "published_at": "2026-07-23T09:46:00"
     },
     {
-      "title": "累计下载超17亿次后，中国超休闲大厂乐信圣文杀入二合赛道",
-      "description": "报道乐信圣文凭借3款游戏月下载超4000万、收入3.6亿，进入二合品类，为休闲游戏厂商提供跨品类拓展的参考案例。",
-      "url": "https://mp.weixin.qq.com/s/r5vV_oofPxFjvrUqG36auQ",
-      "source": "微信-罗斯基",
+      "title": "北京再添一家季度流水过亿的「合成厂商」",
+      "description": "报道乐信圣文旗下Merge-2合成游戏达到单季1.6亿流水，是休闲游戏变现与运营的优秀案例。从业者可深入了解其合成品类设计与商业化策略。",
+      "url": "https://mp.weixin.qq.com/s/ZPbQq6X1ukJzWRK1m7RNqQ",
+      "source": "微信-白鲸出海",
       "category": "行业资讯",
       "score": 8,
-      "published_at": "2026-07-22T23:23:00"
+      "published_at": "2026-07-23T21:30:00"
     },
     {
-      "title": "最容易引发氪金冲动的四种游戏人设",
-      "description": "总结四种高付费转化潜力的玩家角色人设模型，为休闲游戏设计付费点和角色塑造提供心理学依据。",
-      "url": "https://mp.weixin.qq.com/s/4bJIW3qUTo5lTKcqQFKi7g",
-      "source": "微信-无界游戏学社",
+      "title": "女性休闲赛道价值重估：某游戏杀进畅销榜TOP4",
+      "description": "文章深入分析了一款女性休闲游戏冲入畅销榜前四的案例，探讨该赛道的用户价值与商业潜力。对三消/消除类手游的品类拓展和变现策略有重要启发。",
+      "url": "https://mp.weixin.qq.com/s/UogU72h-lAURlPTgrXDRWg",
+      "source": "微信-游戏矩阵 GameMatrix",
       "category": "深度拆解",
       "score": 8,
-      "published_at": "2026-07-22T17:00:00"
+      "published_at": "2026-07-23T17:32:52"
     },
     {
-      "title": "一周游语第151期：中轻度休闲解谜品质提升爆发",
-      "description": "盘点近期多款创新组合的中轻度休闲解谜游戏，提供新玩法灵感，适合休闲游戏策划参考。",
-      "url": "https://mp.weixin.qq.com/s/aPGjRxc0J8hQDtw6-nnFew",
-      "source": "微信-GAME游意思",
+      "title": "6月手游月报：乐信圣文登顶，休闲益智品类买量狂奔",
+      "description": "AppGrowing发布6月海外手游买量报告，重点分析休闲益智品类买量趋势与头部厂商表现。对三消/消除类手游的买量策略和竞品监测有直接参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Pz380x_3uTJ08-7A1h_ZpA",
+      "source": "微信-AppGrowing出海观察",
       "category": "行业资讯",
       "score": 8,
-      "published_at": "2026-07-21T09:59:00"
+      "published_at": "2026-07-23T17:00:00"
     },
     {
-      "title": "构筑玩法的关键是形成可解释的搭配逻辑",
-      "description": "作者欧米分享游戏设计心得，强调搭配逻辑的可解释性，对休闲游戏关卡和数值设计有直接启发。",
-      "url": "https://mp.weixin.qq.com/s/namP_47D4WL_36vKUy_mkg",
-      "source": "微信-欧米De游戏开发小屋",
+      "title": "EA老兵空降Zynga之后，是如何砍掉上百个项目，完成游戏圈最强逆转的？",
+      "description": "深度复盘Zynga转型历程，涉及移动端迁移、精细化运营和AI应用。对休闲游戏公司战略调整和运营优化具有重要借鉴价值。",
+      "url": "https://mp.weixin.qq.com/s/Rc_qpDNHwp9krvV4losGcg",
+      "source": "微信-GameMarket洞察",
       "category": "深度拆解",
       "score": 8,
-      "published_at": "2026-07-22T11:38:06"
+      "published_at": "2026-07-23T08:23:00"
     },
     {
-      "title": "数据摘要：Meowdoku与Learnings突然崛起，王者荣耀、迪士尼表情包消消乐等",
-      "description": "本周数据摘要呈现多款休闲游戏表现，包括Meowdoku的爆红及投资并购数据，对市场趋势有重要参考价值。",
-      "url": "https://mobilegamer.biz/data-digest-meowdoku-and-learnings-sudden-rise-honor-of-kings-disney-emoji-blitz-netflix-playground-more/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-07-22T09:34:53"
-    },
-    {
-      "title": "两个月连发两款Top1爆款：广州公司的小游戏方法论",
-      "description": "文章深度剖析广州某公司如何持续产出微信小游戏爆款，从玩法设计、商业化到运营策略。对休闲游戏从业者极具参考价值，尤其是小游戏赛道的成功经验。",
-      "url": "https://mp.weixin.qq.com/s/rw1xDixz-EfVaeAVwTt58A",
-      "source": "微信-游戏那点事Gamez",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T22:50:10"
-    },
-    {
-      "title": "三消已成历史，休闲游戏出现全新“玩法三巨头”",
-      "description": "文章断言传统三消模式逐渐式微，并提出当前休闲游戏的核心玩法新三巨头（如合并、装饰、解谜等）。对从事休闲游戏设计、选型和立项的从业者具有重要前瞻指导意义。",
-      "url": "https://mp.weixin.qq.com/s/hnIWheKsoKZLvw9FSSCt0A",
-      "source": "微信-游戏花火",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T18:23:00"
-    },
-    {
-      "title": "烹饪二合赛道的长线样本：《Merge Cooking》投放策略解析",
-      "description": "深度分析烹饪二合品类游戏《Merge Cooking》的买量投放策略，包括素材、定位等。对休闲游戏从业者制定推广方案有实操参考价值。",
-      "url": "https://mp.weixin.qq.com/s/-aQz8u_cSWFjjBKxXdX9FQ",
-      "source": "微信-这个游戏素材不错",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T16:29:10"
-    },
-    {
-      "title": "终身累充奖励过时了？如何替换才能保持吸引力又不得罪老玩家",
-      "description": "深度分析累充奖励体系的设计困境与替换策略，涉及老玩家补偿、新奖励的吸引力平衡。对休闲游戏运营者极具参考价值，能直接指导长期付费系统的迭代优化。",
-      "url": "https://mp.weixin.qq.com/s/C0EImX7G0F5ytqTMPN6Vkw",
-      "source": "微信-尤里卡的游戏运营笔记",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T11:30:44"
-    },
-    {
-      "title": "红海3D物理解谜黑马拆解｜Wool Craze：月流水200万美金的生活化解压样本",
-      "description": "文章深度拆解了3D物理解谜游戏《Wool Craze》的设计和变现，分析其如何成为月流水200万美金的黑马，为休闲游戏从业者提供生活化解压玩法的参考。",
-      "url": "https://mp.weixin.qq.com/s/7xPJNdTLEFdACtxxnPe2lQ",
-      "source": "微信-阿杜聊游戏",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T08:40:00"
-    },
-    {
-      "title": "Royal Match最新克朗代克类冒险活动'King's Tales'分析",
-      "description": "文章详细拆解了Royal Match最新的克朗代克式探索解谜运营活动，分析其设计思路和玩家吸引力，对三消游戏的LiveOps设计有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/xVcB4640V45stfClUjU__g",
-      "source": "微信-产品经理熊不知",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-21T08:25:30"
-    },
-    {
-      "title": "AI批量洗素材仍难逃素材崩坏？问题出在哪里",
-      "description": "探讨游戏买量素材创意与数据表现的关系，指出单纯堆量和AI复制无效，为休闲游戏买量团队提供素材优化思路。",
-      "url": "https://mp.weixin.qq.com/s/kNBad79zxuP5UDQm_kE2-w",
-      "source": "微信-DennisLook",
+      "title": "《Colony Flow》冲入美国TOP10，“蚂蚁搬家”式买量策略分析",
+      "description": "文章分析了《Colony Flow》通过创新买量素材（蚂蚁搬家）冲进美国市场前十的案例，揭示了休闲游戏出海买量新思路。对三消/消除类手游的素材策略有借鉴意义。",
+      "url": "https://mp.weixin.qq.com/s/mCkkZtAdnM8g9syBDQxkmw",
+      "source": "微信-广大大出海笔记",
       "category": "行业资讯",
       "score": 7,
-      "published_at": "2026-07-22T22:06:36"
+      "published_at": "2026-07-23T18:39:41"
     },
     {
-      "title": "100万预算只做一款小游戏：红海下中小团队的生存策略",
-      "description": "以小游戏红海为背景，探讨中小团队放弃数量追求单品质量的研发思路，对休闲小游戏开发者有启发。",
-      "url": "https://mp.weixin.qq.com/s/ynl6nLoUCPjw9Q3tcqAmJA",
-      "source": "微信-罗斯基",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T23:23:00"
-    },
-    {
-      "title": "对话陈星汉：所有细腻温柔的灵魂都值得被善待",
-      "description": "陈星汉分享游戏情感设计理念，强调细腻情感对玩家体验的重要性，对休闲游戏在情绪化设计上有启发意义。",
-      "url": "https://mp.weixin.qq.com/s/wN-vPo_UMjXk2qzB3KjnQg",
-      "source": "微信-游戏那点事Gamez",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-07-22T20:21:20"
-    },
-    {
-      "title": "从一款靠AI生成内容续命一年的游戏，我们能得出哪些结论？",
-      "description": "通过分析一款靠AI生成内容维持一年运营的游戏案例，探讨AI在延缓游戏衰退期中的作用，为手游长线运营和内容策略提供新思路。",
-      "url": "https://mp.weixin.qq.com/s/lPfdr9JT7PQF6EtF6TDhqA",
+      "title": "Q2北美地区手游收入报告：国产手游差异化突围，Netflix云游戏布局",
+      "description": "报告了Q2北美手游市场收入变化，提及《Sword x Staff》登顶收入上升榜及国产手游差异化策略。包含休闲游戏市场趋势数据，对出海决策有帮助。",
+      "url": "https://mp.weixin.qq.com/s/ujf39er_Kk_nkCZ7IvIPGQ",
       "source": "微信-独立出海联合体",
-      "category": "深度拆解",
+      "category": "行业资讯",
       "score": 7,
-      "published_at": "2026-07-22T18:09:32"
+      "published_at": "2026-07-23T18:01:34"
     },
     {
-      "title": "斯普拉遁：突袭者最初是塔防游戏",
-      "description": "总监分享新作原型开发历程，强调保持系列核心优势的重要性。对游戏设计流程和原型迭代有实质参考价值。",
-      "url": "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-defense-game-but-its-splatoon-ness-got-lost",
-      "source": "Game Developer",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-07-22T14:27:14"
-    },
-    {
-      "title": "上线失败的游戏如何修改？五步法解析",
-      "description": "文章分享修改准成品游戏的五个步骤，从诊断到调优，对游戏运营和版本迭代有实践指导意义。",
-      "url": "https://mp.weixin.qq.com/s/vbXEG14viZmg8CNlr_8wNA",
+      "title": "拿什么诊救你，上线失败的游戏？（执行篇）",
+      "description": "文章分享游戏上线失败后的整改策略，强调要么关闭、要么彻底整改，避免持续亏损。对休闲游戏运营者应对产品危机具有实操指导价值。",
+      "url": "https://mp.weixin.qq.com/s/TqO-9kKYxs10EoSastol-g",
       "source": "微信-老瞿的游戏冷笑话",
       "category": "深度拆解",
       "score": 7,
-      "published_at": "2026-07-22T11:54:00"
+      "published_at": "2026-07-23T11:58:39"
     },
     {
-      "title": "齿轮融合序列消除最佳产品分析",
-      "description": "文章分析一款齿轮融合序列消除游戏，强调表现形式决定用户受众，对休闲游戏创意和产品定位有参考。",
-      "url": "https://mp.weixin.qq.com/s/O8QzD3KQh02yr-HFoJhZLA",
-      "source": "微信-游戏本稚",
+      "title": "2026.07.23 全球游戏观察：整理类游戏赛道又出黑马",
+      "description": "介绍整理分类游戏《Sort Express》的内购收入已超350万美元，月收入达75万，持续增长。对休闲游戏赛道观察和竞品分析有直接参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Aullkt-CM6k2IkQKBZGL3Q",
+      "source": "微信-游戏寿司",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-23T09:24:22"
+    },
+    {
+      "title": "拿什么拯救你，上线失败的游戏？（诊断篇）",
+      "description": "本文从产品设计、运营策略等维度深入分析游戏上线失败的原因，提供系统性的诊断思路和方法。对于休闲游戏从业者而言，可借鉴其复盘框架，避免同类问题，提升产品上线成功率。",
+      "url": "https://mp.weixin.qq.com/s/zfkQJ3VxvC0iDd2C0h-y1A",
+      "source": "微信-车尔斯基的游戏运营杂谈",
       "category": "深度拆解",
       "score": 7,
-      "published_at": "2026-07-22T09:17:04"
+      "published_at": "2026-07-22T08:00:00"
     },
     {
-      "title": "腾讯近百亿收购以色列游戏工作室Playtika旗下休闲手游部门",
-      "description": "腾讯拟收购Playtika的休闲手游工作室，分析腾讯布局休闲游戏市场的战略意图。对休闲游戏行业格局有重要意义。",
-      "url": "https://mp.weixin.qq.com/s/PSzX-nI02x7nRZnnfOi-Jg",
-      "source": "微信-橙了个橘",
+      "title": "网易的第一款大世界2游终于公测！从策划视角带你解构《遗忘之海》",
+      "description": "文章从策划视角解构网易新游《遗忘之海》的大世界与肉鸽玩法设计，探讨其突围可能性。虽非休闲游戏，但策划思路对休闲游戏关卡设计有一定参考价值。",
+      "url": "https://mp.weixin.qq.com/s/GOVL5eEqi3KnBQU4PkXlUw",
+      "source": "微信-罗斯基",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-07-23T23:23:00"
+    },
+    {
+      "title": "专访：杭州卡日曲宋晶晶 （采访逐字稿）",
+      "description": "鹅厂生意经栏目对杭州卡日曲CEO的专访，分享小游戏创业经验与市场洞察。对小游戏从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/SdKVnnfydtoErFGLc12Cqg",
+      "source": "微信-龙虾游戏推荐",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T22:22:49"
+      "score": 6,
+      "published_at": "2026-07-23T17:15:04"
     },
     {
-      "title": "据报腾讯拟10-15亿美元洽购SuperPlay：一家太赚钱而被“迫售”的明星工作室",
-      "description": "腾讯计划收购以色列休闲游戏工作室SuperPlay（代表作《Dice Dreams》等），交易金额巨大。该消息直接反映休闲游戏领域的并购热度和头部工作室价值，对从业者判断资本动向有重要参考。",
-      "url": "https://mp.weixin.qq.com/s/e3p96rscq8hX1j68r-f5mQ",
-      "source": "微信-快出海",
+      "title": "7月197款版号：《影之刃零》过审，网易心动B站三七在列",
+      "description": "2026年7月国产游戏版号下发，数量再创新高，涉及网易、心动、B站、三七等多家厂商。从业者可了解版号趋势及重点产品动态。",
+      "url": "https://mp.weixin.qq.com/s/bZll2fCVZgDa7kIfHofL9g",
+      "source": "微信-游戏葡萄",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T20:00:00"
+      "score": 6,
+      "published_at": "2026-07-23T21:40:06"
     },
     {
-      "title": "苹果巴西新规落地：第三方支付开放，应用变现迎来新空间",
-      "description": "苹果在巴西开放第三方支付，允许接入Pix等本地支付方式，降低支付门槛和流失率。对休闲游戏在巴西市场的变现策略有直接优化价值。",
-      "url": "https://mp.weixin.qq.com/s/bG2x9zcV-TIcxDePunbbfA",
-      "source": "微信-扬帆出海",
+      "title": "游戏版号授权与套版号的区别解析",
+      "description": "文章详细解释了游戏版号的授权规则与套版号行为的风险，强调版号对应具体游戏不能随意更换。对于休闲游戏从业者了解合规运营有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/ZApXTOoS18gJxZcBrJ9WEA",
+      "source": "微信-晓衡的游戏开发圈",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T18:17:30"
+      "score": 6,
+      "published_at": "2026-07-23T19:05:46"
     },
     {
-      "title": "2026上半年最赚钱的10家游戏公司",
-      "description": "Sensor Tower发布2026上半年全球手游发行商收入榜，腾讯、点点互动、柠檬微趣三家中国厂商跻身TOP10。对休闲游戏从业者了解头部公司格局有直接参考价值。",
-      "url": "https://mp.weixin.qq.com/s/3GTCL1n-Pe4XMTK5yf9mPw",
-      "source": "微信-GameQuest",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T17:36:43"
-    },
-    {
-      "title": "Monopoly Go为孩之宝带来4400万美元收入，游戏业务增长17%",
-      "description": "报道孩之宝Q2财报，Monopoly Go贡献4400万美元收入，游戏业务整体增长17%。对休闲游戏从业者了解头部IP游戏商业表现有参考价值。",
-      "url": "https://mobilegamer.biz/monopoly-go-earns-hasbro-44m-as-its-games-business-grows-17/",
+      "title": "Google因Play Store支付限制被欧盟罚款10亿欧元",
+      "description": "欧盟因Google限制Play Store支付和搜索行为对其处以10亿欧元罚款。该裁决将影响移动游戏分发和支付生态，休闲游戏从业者需关注渠道政策变化。",
+      "url": "https://mobilegamer.biz/google-hit-with-1bn-eu-fine-for-restricting-play-store-payments-and-search-shenanigans/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-07-21T15:12:11"
+      "score": 6,
+      "published_at": "2026-07-23T13:14:28"
     },
     {
-      "title": "Rollic又把俄罗斯方块组合摆放玩法玩出一个新高度！",
-      "description": "分析Rollic最新超休闲游戏如何通过质感升级和组合摆放机制提升体验，揭示超休闲品类创新方向。对休闲游戏打磨手感、玩法融合有借鉴意义。",
-      "url": "https://mp.weixin.qq.com/s/-bTajwkG0ofB3joNodoJBg",
-      "source": "微信-游戏本稚",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-07-21T09:14:00"
-    },
-    {
-      "title": "关卡拆解：《明日方舟：终末地》1.2主线关卡设计分析",
-      "description": "文章深入拆解了《明日方舟：终末地》1.2版本的主线关卡设计，探讨其唤起、迷失与重访的体验，对关卡设计师有启发，但非休闲游戏领域。",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNZEZQckNRZUxKZzhMT3VENWl6SkVIVFdTTXZXX3l4YjJfYzEzVWwtNjBVNndaMVFxYk5zcGQ2VnBSUFMwZlNOWGVNeUhGaTQ?oc=5",
-      "source": "Google News",
-      "category": "深度拆解",
-      "score": 7,
-      "published_at": "2026-07-20T07:39:27"
-    },
-    {
-      "title": "TikTok for Business推出小游戏增长产品“Growth Max”",
-      "description": "介绍TikTok新广告产品如何助力小游戏出海获客，为休闲游戏厂商提供新的买量渠道参考。",
-      "url": "https://mp.weixin.qq.com/s/bVbnhSYwN43H2wBxYinO5Q",
-      "source": "微信-罗斯基",
+      "title": "AI研发闲聊：让AI帮你做代码重构，风险在哪里",
+      "description": "探讨使用AI进行代码重构的风险与注意事项，分享游戏开发中的实践经验。对游戏开发者有技术参考价值。",
+      "url": "https://mp.weixin.qq.com/s/iPlkrTsBy6j3RYztkBrRMQ",
+      "source": "微信-欧米De游戏开发小屋",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-21T23:23:00"
+      "published_at": "2026-07-23T11:56:48"
     },
     {
-      "title": "TikTok小游戏自主开发窗口正式开放",
-      "description": "报道TikTok开放小游戏自主开发申请，为休闲游戏厂商布局TikTok生态提供重要信息。",
-      "url": "https://mp.weixin.qq.com/s/kbuSRMH2W_D8aX7CWqnocA",
-      "source": "微信-Enjoy出海开发者服务平台",
+      "title": "央视点名乙游乱象！13岁女孩狂刷3万",
+      "description": "央视报道乙女游戏未成年人保护漏洞，13岁女孩充值近3万元，专家指出实名验证与使用核验脱节。对休闲游戏厂商加强防沉迷措施有重要警示。",
+      "url": "https://mp.weixin.qq.com/s/HtxCJK4CBsneNq1myQENew",
+      "source": "微信-游创工坊",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-21T20:15:36"
+      "published_at": "2026-07-23T10:49:05"
     },
     {
-      "title": "2026年第一场MAU大考：洛克王国第一，鹅鸭杀超904万第二，异环第六",
-      "description": "报告2026年手游MAU排名，洛克王国领先，为休闲游戏市场提供用户规模参考，同时展示热门游戏格局变化。",
-      "url": "https://mp.weixin.qq.com/s/4gd-SLZ0aUKczq2ArZtKUQ",
-      "source": "微信-游戏那点事Gamez",
+      "title": "莉莉丝这波融合有点东西！《塔塔冒险队》运气弹球+卡牌，玩起来真上头！",
+      "description": "分析莉莉丝新作融合弹球与卡牌玩法，兼具CM-like和PVZ战斗元素。对休闲游戏玩法融合与创新有一定参考。",
+      "url": "https://mp.weixin.qq.com/s/iSlqGzOXcGlkIlJs8bJSXw",
+      "source": "微信-急速行走的小U盘",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-22T22:46:21"
+      "published_at": "2026-07-23T07:30:00"
     },
     {
-      "title": "手游出海进入“留存时代”，adjoe与你一起重新定义全球增长",
-      "description": "强调留存对手游出海的核心价值，分享增长策略与变现思路，对休闲游戏出海优化留存有实际参考。",
-      "url": "https://mp.weixin.qq.com/s/ayQhpvvlnmFtzZhv967JXw",
+      "title": "播客：腾讯、Playtika和SuperPlay的闹剧，Google Play更多变化，Monopoly Go等",
+      "description": "围绕移动游戏行业热点，涉及Playtika（休闲巨头）、Monopoly Go等。适合休闲游戏从业者了解行业动态与竞争格局。",
+      "url": "https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-22T23:58:00"
+    },
+    {
+      "title": "紫龙今日首曝的《梦幻模拟战》新作实机，为什么美术不够卷？",
+      "description": "讨论《梦幻模拟战》新作的美术策略，分析为何不追求过度内卷。属于战棋游戏美术方向，对休闲游戏设计有间接启发。",
+      "url": "https://mp.weixin.qq.com/s/sgYA4gHvrnbR5pEIszGjFA",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-22T22:14:06"
+    },
+    {
+      "title": "抽卡像炒股，中国二游玩家的强度焦虑谁来买单？",
+      "description": "深入分析二次元游戏抽卡机制与玩家强度焦虑，涉及数值设计和运营策略。虽非消除品类，但抽卡系统与变现逻辑对休闲游戏有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/ndC890DLB8kOMuGzK05jww",
       "source": "微信-游戏陀螺",
-      "category": "行业资讯",
+      "category": "深度拆解",
       "score": 6,
       "published_at": "2026-07-22T20:36:00"
     },
     {
-      "title": "对话｜《鸣潮》幕后：真正鲜活的事物，永远在向前",
-      "description": "通过与《鸣潮》开发团队的深度对话，分享游戏创作背后的故事与理念，展现游戏的人文情怀，适合开发者共鸣与启发。",
-      "url": "https://mp.weixin.qq.com/s/yKSVvERyQ9E8yYq2b97dCw",
-      "source": "微信-游戏那点事Gamez",
-      "category": "泛游戏",
-      "score": 6,
-      "published_at": "2026-07-22T17:48:40"
-    },
-    {
-      "title": "思路比具体的产品重要",
-      "description": "作者发现意大利语游戏站点复制英语站点，建议出海时可关注意大利语市场，提供本地化思路。",
-      "url": "https://mp.weixin.qq.com/s/qIKWYVc2ey07lcfNsHV_Cg",
-      "source": "微信-熊猫游戏出海",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-22T12:08:00"
-    },
-    {
-      "title": "被任天堂告了两年未垮，1.0版本重回百万在线的游戏",
-      "description": "文章探讨了一款被任天堂起诉但坚持运营的游戏，通过保持玩法核心和更新节奏，在推出1.0版本后重新吸引百万在线玩家。对休闲游戏从业者而言，提供了运营逆袭和争议管理的案例参考。",
-      "url": "https://mp.weixin.qq.com/s/znsjOKO5KnZjMNz5F9hUqw",
-      "source": "微信-GameMarket洞察",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-22T08:14:00"
-    },
-    {
-      "title": "6月中国出海手游收入排行榜：鸣潮收入3300万美元挺进TOP7",
-      "description": "Sensor Tower数据显示6月中国手游海外收入排名，头部产品格局稳固，新游崛起。对休闲游戏出海市场趋势有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/pJI1p9QgMGfmzd7i0xzgEQ",
-      "source": "微信-游创工坊",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T23:59:37"
-    },
-    {
-      "title": "小游戏MAU逼近手游APP，“存量之战”更焦灼了",
-      "description": "文章指出小游戏月活跃用户已接近手游APP，市场竞争进入存量阶段。对休闲游戏从业者而言，了解小游戏与手游的用户争夺趋势有助于调整获客和运营策略。",
-      "url": "https://mp.weixin.qq.com/s/cJfHIF0TXZjed3Y8LHhVrA",
-      "source": "微信-游戏陀螺",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T20:35:00"
-    },
-    {
-      "title": "Raid: Shadow Legends、休闲部门PlaySimple及网页商店收入推动MTG利润增长",
-      "description": "分析Modern Times Group的财报，其休闲游戏部门PlaySimple和网页直购策略推动增长。对休闲游戏从业者了解多元化变现模式有参考价值。",
-      "url": "https://mobilegamer.biz/raid-shadow-legends-casual-arm-playsimple-and-web-store-revenue-drive-rising-mtg-profits/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T13:01:48"
-    },
-    {
-      "title": "2026年6月中国应用/游戏厂商出海收入Top30榜",
-      "description": "点点数据发布2026年6月中国厂商出海收入榜，覆盖游戏和应用。对休闲游戏从业者了解出海竞争格局有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/pRzaMBfkW37qIWJ8-p-x-g",
+      "title": "点点数据确认参展2026 ChinaJoy BTOB，为您解锁全球移动应用/游戏数据",
+      "description": "点点数据将参展2026 ChinaJoy，并发布《2026H1全球移动游戏市场数据报告》，为从业者提供全球市场趋势洞察。对于休闲游戏开发者而言，该报告有助于了解整体移动游戏市场动态和增长机会。",
+      "url": "https://mp.weixin.qq.com/s/KJT_toUyARlkcEgjBBiyzA",
       "source": "微信-点点出海",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-21T12:00:00"
+      "published_at": "2026-07-22T12:00:00"
     },
     {
-      "title": "3-5人研发干翻大厂：《赵云与阿斗》的爆火与生存法则",
-      "description": "复盘一款小游戏（可能是休闲融合玩法）如何以小团队逆袭大厂，探讨走红逻辑与生存法则。从业者可了解小游戏赛道的市场机会和产品差异化思路。",
-      "url": "https://mp.weixin.qq.com/s/B-anlWuSGKihzHJaBzo6cQ",
-      "source": "微信-游戏萤光",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T11:15:01"
-    },
-    {
-      "title": "玩家为什么不会一直选择最优解？——游戏博弈分析",
-      "description": "从博弈论角度分析玩家非理性决策的心理机制，可用于休闲游戏的关卡难度设计、道具定价策略等，帮助策划更好地理解玩家行为。",
-      "url": "https://mp.weixin.qq.com/s/w_qcPRSSFdej2lzLKf0eRg",
-      "source": "微信-欧米De游戏开发小屋",
-      "category": "深度拆解",
-      "score": 6,
-      "published_at": "2026-07-21T11:05:00"
-    },
-    {
-      "title": "中小出海团队素材分析工具怎么搭？分4个阶段配置",
-      "description": "为中小出海团队提供素材分析工具搭建指南，分为初期到成熟期的配置方案。对休闲游戏买量团队有直接实操价值。",
-      "url": "https://mp.weixin.qq.com/s/5-l0YaNmu87OjoNbxbL5VA",
-      "source": "微信-这个游戏素材不错",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T10:29:44"
-    },
-    {
-      "title": "TikTok、Meta、Google广告素材去哪里看？3类入口对比",
-      "description": "汇总三大平台公开广告素材入口及第三方工具对比，帮助休闲游戏营销人员高效进行竞品素材分析和创意参考。",
-      "url": "https://mp.weixin.qq.com/s/y1qZFAOfb-JvjYG3xoOI9g",
-      "source": "微信-这个游戏素材不错",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T10:24:24"
-    },
-    {
-      "title": "TOP5独占三席，这家北京公司凭什么让全球玩家“上头”？",
-      "description": "基于SensorTower下载榜分析某北京休闲游戏公司的成功因素，可帮助从业者了解当前全球休闲游戏买量趋势和爆款特征。",
-      "url": "https://mp.weixin.qq.com/s/eXdlE4tqlPGt6E9KJwMVlQ",
-      "source": "微信-游讯先锋",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T08:53:00"
-    },
-    {
-      "title": "海外融合塔防｜Infinite Crafter (TD)：四元素炼金竖版轻量塔防手游",
-      "description": "介绍一款融合炼金合成与塔防的轻量手游，属于休闲塔防细分新品。对关注休闲游戏玩法融合的开发者有产品参考价值。",
-      "url": "https://mp.weixin.qq.com/s/kd46uzNm17eClfmHrhbKUQ",
-      "source": "微信-阿杜聊游戏",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T08:45:00"
-    },
-    {
-      "title": "Unity公布Unity 7路线图，更新路径不会破坏构建",
-      "description": "Unity公布了Unity 7的路线图，强调向后兼容性和新工具，对休闲游戏开发者规划引擎升级有参考价值。",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-07-21T02:00:00"
-    },
-    {
-      "title": "19岁CEO谈UGC游戏行业机会",
-      "description": "讨论UGC在游戏行业的发展前景，对休闲游戏厂商探索UGC模式有一定参考价值。",
-      "url": "https://mp.weixin.qq.com/s/_EULOc-7x-6sKc_MIRI6VQ",
-      "source": "微信-Enjoy出海开发者服务平台",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-21T20:15:36"
-    },
-    {
-      "title": "前米哈游高管加入，当下最火的AI公司突然做了几十个游戏",
-      "description": "报道AI公司大规模入局游戏行业，并引来前米哈游高管，反映跨界融合趋势，对休闲游戏开发者关注AI应用有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/NurYDwhiiYYboQAVqcEAvw",
+      "title": "爬上Top 1，网易《遗忘之海》被低估了？",
+      "description": "文章报道了网易旗下游戏《遗忘之海》登顶排行榜的消息，探讨其市场表现是否被低估。对从业者而言，可关注其成功因素及市场反馈。",
+      "url": "https://mp.weixin.qq.com/s/cqnpetgdJR2T1SKicC2nLw",
       "source": "微信-游戏葡萄",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-22T22:14:06"
+      "published_at": "2026-07-23T21:40:06"
     },
     {
-      "title": "明天好不热闹，又一波新游来袭！",
-      "description": "汇总7月23日上线的新游，包括Supercell狩猎大作、网易海洋开放世界等，提供市场新品动态，供从业者关注。",
-      "url": "https://mp.weixin.qq.com/s/i_vvjA0Qr5CIK7i5Ld_oQw",
-      "source": "微信-橙了个橘",
+      "title": "今日官宣：上线不到一年，手瓦用户已破1亿",
+      "description": "某手游（简称“手瓦”）上线不到一年用户突破1亿，展示出较强的用户获取能力。从业者可分析其增长策略对休闲游戏用户增长的启示。",
+      "url": "https://mp.weixin.qq.com/s/oxq4Tq-JeLFcX2gzS3GLHQ",
+      "source": "微信-游戏葡萄",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-22T21:50:26"
+      "published_at": "2026-07-23T21:40:06"
     },
     {
-      "title": "GDC洛克之声：为500多种精灵塑造全方位声景",
-      "description": "介绍洛克王国游戏中数百种精灵的音效设计历程，对游戏音频从业者有一定的技术参考价值。",
-      "url": "https://mp.weixin.qq.com/s/wBuov3kYTJHtmXxv-nHEfw",
+      "title": "思考：美少女二游为何与横板玩法相性不佳？",
+      "description": "探讨二次元游戏与横板玩法的匹配性问题，属于游戏设计分析。虽然非休闲品类，但对理解品类融合有一定参考。",
+      "url": "https://mp.weixin.qq.com/s/U39CPqxnaqq6fHNTOECv1g",
       "source": "微信-GameRes游资网",
-      "category": "行业资讯",
+      "category": "泛游戏",
       "score": 5,
-      "published_at": "2026-07-22T19:19:14"
+      "published_at": "2026-07-23T19:14:14"
     },
     {
-      "title": "影视公司做游戏，靠谱吗？",
-      "description": "探讨影视公司跨界做游戏的可行性与挑战，分析其资源优势和常见误区，对关注游戏行业跨界合作的从业者有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/57Ncbw4YQ1pW3OMWPqyAcg",
-      "source": "微信-游戏花火",
+      "title": "Genspark发布首款硬件，月之暗面上线AI游戏平台",
+      "description": "汇总了苹果拟推AI购物助手等出海新鲜事，涉及科技与游戏交叉领域。对关注AI在游戏应用趋势的从业者有一定信息价值。",
+      "url": "https://mp.weixin.qq.com/s/LLP3-46j0PTIMCHFTAc4_A",
+      "source": "微信-白鲸出海",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-22T18:30:00"
+      "published_at": "2026-07-23T19:04:29"
     },
     {
-      "title": "QuestMobile上半年报告：《鹅鸭杀》成最热新游之一，手游行业黏性持续走高",
-      "description": "QuestMobile上半年报告显示《鹅鸭杀》成为最热新游之一，手游行业用户黏性持续走高，提供市场趋势和用户行为参考。",
-      "url": "https://mp.weixin.qq.com/s/UQZ2Y35ZSGj7-iDNVfE_rw",
-      "source": "微信-独立出海联合体",
+      "title": "《遗忘之海》手游首次进入App Store畅销榜前65",
+      "description": "报道了一款新游《遗忘之海》登上畅销榜的情况，属于新游市场表现资讯。对休闲游戏从业者了解市场动态有参考。",
+      "url": "https://mp.weixin.qq.com/s/8SDxzvZLMlZ98YvLbYejnQ",
+      "source": "微信-游戏寿司",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-22T18:09:32"
+      "published_at": "2026-07-23T18:50:03"
     },
     {
-      "title": "二游停更前豪掷22.5万抽让玩家抽个爽",
-      "description": "二游《辉烬》上线不足一年即停更，项目组解散，最后推出大量免费抽卡福利吸引玩家，反映了中小厂商在激烈竞争中的生存困境。",
-      "url": "https://mp.weixin.qq.com/s/CcQ5GXmB4cL6NUz1pHiS2Q",
-      "source": "微信-游创工坊",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T18:00:00"
-    },
-    {
-      "title": "Devolver免费重新发布原Netflix独占游戏Poinpy",
-      "description": "Devolver将原Netflix独占手游《Poinpy》免费发布，无内购无广告但允许玩家打赏，探索新变现模式，对休闲游戏发行有启发。",
-      "url": "https://mobilegamer.biz/devolver-has-rereleased-former-netflix-exclusive-poinpy-for-free/",
-      "source": "Mobile Gamer Biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T16:53:48"
-    },
-    {
-      "title": "孩之宝记录5600万美元减值，取消多款计划2028年及之后发布的游戏",
-      "description": "孩之宝因游戏组合减值5600万美元，取消若干未来游戏项目，反映传统IP厂商在游戏领域的挑战与战略调整。",
-      "url": "https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T16:41:27"
-    },
-    {
-      "title": "微软在PC端推出Xbox向后兼容功能",
-      "description": "微软宣布PC版Xbox向后兼容，玩家可在PC上运行Xbox游戏库，扩展游戏生态，对平台策略和玩家体验有影响。",
-      "url": "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-compatibility-for-pc",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T15:57:53"
-    },
-    {
-      "title": "人类跌落梦境2取消，直接开发3代",
-      "description": "创始人回顾十年开发历程，游戏用户超6000万，分享从个人项目到全球IP的经验教训。",
-      "url": "https://www.gamedeveloper.com/production/-human-fall-flat-2-is-cancelled-we-are-making-human-fall-flat-3-no-brakes-games-founder-looks-back-on-a-defining-decade",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T14:20:33"
-    },
-    {
-      "title": "Parti零门槛联机游戏平台无需服务器原理",
-      "description": "介绍Parti平台如何实现零服务器联机，对游戏开发技术选型有参考价值。",
-      "url": "https://sspai.com/post/112545",
-      "source": "少数派",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T09:43:06"
-    },
-    {
-      "title": "TikTok Ads开户四大致命问题",
-      "description": "揭秘代理商不告诉的广告开户痛点，对休闲游戏出海投放实操有帮助。",
-      "url": "https://mp.weixin.qq.com/s/urU3zKlkvr2NhijInEtH_A",
-      "source": "微信-熊猫海外投放笔记",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-22T09:39:31"
-    },
-    {
-      "title": "中国游戏出海，下一站为什么是卢森堡？",
-      "description": "分析卢森堡作为出海跳板的原因，涉及欧洲数字基建、合规政策等。对休闲游戏出海欧洲有战略参考。",
-      "url": "https://mp.weixin.qq.com/s/Rv3EF2eXduZleGGU0gVmeg",
-      "source": "微信-晚风游谈",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-21T22:38:47"
-    },
-    {
-      "title": "B站内测网页部署平台「Toy」，内测半月点击量突破850万",
-      "description": "B站推出融合工具与小游戏的网页部署平台Toy，内测表现亮眼。该平台可能成为休闲小游戏新的分发渠道，值得关注。",
-      "url": "https://mp.weixin.qq.com/s/mei8iLDIjMJuQPRYcbjqGQ",
+      "title": "前《白夜极光》制作人创业公司复活，公布写实新项目",
+      "description": "报道了前《白夜极光》制作人新团队的动态，新项目为写实风格。对休闲游戏从业者而言属于行业人事资讯。",
+      "url": "https://mp.weixin.qq.com/s/Q_Ipp6ggR-7NcF5hr755cQ",
       "source": "微信-游戏新知",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T18:51:27"
+      "published_at": "2026-07-23T17:08:10"
     },
     {
-      "title": "《TBH:塔斯克巴·英雄》：PC端“副游”的新生态机会",
-      "description": "探讨PC端副游概念及新品机会，涉及轻度休闲属性。虽非三消品类，但对理解“副游”趋势及跨平台休闲产品有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/0Vjt-PgH1bJtWeGLUpgEMQ",
-      "source": "微信-GameRes游资网",
+      "title": "《白银之城》开启二测：角色翻倍、主线剧情扩充110%",
+      "description": "介绍了《白银之城》二测内容更新。该游戏可能非休闲类型，属于一般新游测试资讯。",
+      "url": "https://mp.weixin.qq.com/s/xm4pMC_pjkJ4hiWfeYX8hQ",
+      "source": "微信-游戏新知",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T18:48:48"
+      "published_at": "2026-07-23T17:08:10"
     },
     {
-      "title": "华东大厂刚官宣拟一次性分钱7个亿",
-      "description": "报道某华东A股游戏公司宣布一次性分红7亿元，属于公司财务动态。对从业者了解行业资本动向有参考价值。",
-      "url": "https://mp.weixin.qq.com/s/p68qnzfSQIUN02sZjwmd5A",
-      "source": "微信-竞核",
+      "title": "完美世界《航海王：集结》项目重启，全新团队开发",
+      "description": "报道完美世界旗下《航海王：集结》项目重启消息。属于IP手游开发动态，与休闲游戏有一定距离。",
+      "url": "https://mp.weixin.qq.com/s/SsgGB1q5L6DjrXMFdE0duA",
+      "source": "微信-游戏新知",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T18:07:23"
+      "published_at": "2026-07-23T17:08:10"
     },
     {
-      "title": "2026《财富》中国500强公布：腾讯、网易、世纪华通入榜，米哈游第几？",
-      "description": "财富中文网发布2026年中国500强榜单，列出游戏相关企业排名及营收数据。对从业者了解头部公司规模有参考意义。",
-      "url": "https://mp.weixin.qq.com/s/A_sIMqM7QxkFMpDHQ2hSiw",
-      "source": "微信-游戏矩阵 GameMatrix",
+      "title": "腾讯《无畏契约手游》注册用户突破1亿，周年庆规划曝光",
+      "description": "报道《无畏契约手游》注册破亿及一周年庆典计划。该游戏为FPS类型，非休闲手游，但可作为手游运营数据参考。",
+      "url": "https://mp.weixin.qq.com/s/Lm_1iAE5i3FTFGYYOIFJCA",
+      "source": "微信-游戏日报",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T17:25:05"
+      "published_at": "2026-07-23T16:20:16"
     },
     {
-      "title": "新一代游戏评论能教给开发者什么？",
-      "description": "探讨长篇视频游戏设计分析获得百万播放的现象，分析开发者如何从中学习。偏行业趋势讨论，非休闲游戏特定。",
-      "url": "https://www.gamedeveloper.com/design/what-developers-can-learn-from-this-generation-of-games-criticism",
-      "source": "Game Developer",
+      "title": "11人涉案！网易贪腐案将开庭",
+      "description": "报道网易公司贪腐案件即将开庭审理，涉及11人。该事件提醒游戏公司重视内部合规管理，对从业者有警示意义。",
+      "url": "https://mp.weixin.qq.com/s/9wGKubO-LGXJXexGkOB54Q",
+      "source": "微信-GameQuest",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T17:05:01"
+      "published_at": "2026-07-23T15:21:07"
     },
     {
-      "title": "聊聊汉字笔画的游戏｜一个开源的笔画库",
-      "description": "文章介绍了一个开源汉字笔画库，可用于开发汉字相关的玩法（如笔画排序、拼字游戏等）。对休闲游戏从业者而言，这是低成本获取汉字资源的途径，适合探索教育类或文化类消除/解谜玩法。",
-      "url": "https://mp.weixin.qq.com/s/eWuNcL63Jlo0GgXN0jw9Jg",
-      "source": "微信-熊猫游戏出海",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-21T11:58:00"
-    },
-    {
-      "title": "道德、低功耗、设备端：Studio Atelico对生成式AI未来的愿景",
-      "description": "介绍一款设备端生成式AI引擎，强调低功耗和道德优势，可为休闲游戏提供本地AI交互方案（如NPC对话、关卡生成），具备技术前瞻性。",
-      "url": "https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai",
+      "title": "工会指控Bethesda违反加拿大劳动法",
+      "description": "报道Bethesda蒙特利尔工作室裁员后，工会提出法律投诉，指控公司违反劳动法。反映游戏行业劳资矛盾，提醒企业在裁员时注意合规。",
+      "url": "https://www.gamesindustry.biz/union-accuses-bethesda-of-violating-labour-laws-in-canada-following-layoffs-at-montreal-studio",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T11:00:03"
+      "published_at": "2026-07-23T14:48:27"
     },
     {
-      "title": "我们买了一家爆款公司，然后差点被它拖死",
-      "description": "文章讲述了腾讯收购一家爆款公司后面临的困境，分析了游戏行业收购的风险与教训，对从业者有一定警示意义。",
-      "url": "https://mp.weixin.qq.com/s/jmbG_dkZRq5fHJPOiwhCuQ",
-      "source": "微信-GameMarket洞察",
+      "title": "Vermila Studios裁员，未来数月可能关闭",
+      "description": "报道Vermila Studios宣布裁员，并表示未来数月可能关闭。展示了中小游戏工作室面临的生存困境，对行业生态有警示作用。",
+      "url": "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-studio-closure-a-feasible-possibility-in-coming-months",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-21T08:16:00"
+      "published_at": "2026-07-23T14:38:58"
+    },
+    {
+      "title": "沙特EA收购案获欧盟批准",
+      "description": "报道欧盟批准沙特收购EA的交易，认为不会引发竞争问题。重大行业并购事件，影响全球游戏市场格局。",
+      "url": "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyout-approved-under-eu-merger-rules",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T13:42:55"
+    },
+    {
+      "title": "Amazon澄清《007：第一道光》续作立场",
+      "description": "Amazon澄清007游戏续作将由IOI开发而非亚马逊游戏工作室，强调尊重原有开发团队的成果。反映IP游戏续作的授权与开发动态。",
+      "url": "https://www.gamesindustry.biz/amazon-clarifies-stance-on-007-first-light-sequel-given-the-success-of-this-one-i-think-you-probably-want-ioi-developing-it",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T13:39:10"
+    },
+    {
+      "title": "Amazon计划整合游戏、影视，称游戏开发数量达历史最高",
+      "description": "Amazon宣布将Luna整合到Prime Video，并表示游戏开发数量创历史新高。行业巨头跨媒体策略，休闲游戏厂商可关注平台生态变化。",
+      "url": "https://www.gamesindustry.biz/now-luna-is-integrated-into-prime-video-amazon-sees-potential-for-gaming-to-expand-beyond-pc-and-console-that-pie-isnt-really-growing",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T13:00:00"
+    },
+    {
+      "title": "Delphi Interactive的粉丝优先策略吸引大型IP合作",
+      "description": "报道Delphi Interactive通过粉丝优先策略成功开发007和FIFA游戏，吸引更多品牌合作。对休闲游戏获取IP授权和社区运营有参考价值。",
+      "url": "https://www.gamesindustry.biz/delphi-interactives-fan-first-strategy-draws-major-ip-interest-following-success-of-james-bond-and-fifa",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T10:34:37"
+    },
+    {
+      "title": "二游美术卷到头了？乐元素：用UE5搞个3A试试",
+      "description": "乐元素尝试用UE5开发3A级二次元游戏，反映头部厂商技术方向。休闲游戏从业者可关注其技术路线对休闲产品品质提升的潜在影响。",
+      "url": "https://mp.weixin.qq.com/s/CqSssFrAQ3eqxfUKMwLF8g",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T09:58:00"
+    },
+    {
+      "title": "泡泡堂+路径解谜, 有点意思!",
+      "description": "融合泡泡堂与路径解谜的新玩法出现，反映休闲游戏玩法融合趋势。适合休闲设计师关注。",
+      "url": "https://mp.weixin.qq.com/s/KDCHWfUi0nXs55S6o6qE3A",
+      "source": "微信-游戏本稚",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T09:02:57"
+    },
+    {
+      "title": "Yandex Ads 发布中亚手游市场报告，解码中企出海增长新机遇",
+      "description": "报告聚焦中亚手游市场，为休闲游戏出海提供新兴市场数据与机会判断。",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBSUpPS3JMTTl3OWVheWFMRTRBMkhhYlNUdUNjM2diZVotV29KMFhBSmVSMmpmUTZHZ2tNaXpUUEFPNHdkSjBfWVY2QXNodWN0?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-23T08:01:38"
+    },
+    {
+      "title": "集体低迷，网易的又一次“尝鲜”，能为赛季制SLG续命吗？",
+      "description": "分析七月上旬SLG游戏流水低迷以及网易新尝试，属于策略游戏市场动态。对休闲游戏从业者了解行业趋势有一般参考价值。",
+      "url": "https://mp.weixin.qq.com/s/65kfptCHor_OWVL5vWwSGA",
+      "source": "微信-百游录",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T22:47:52"
+    },
+    {
+      "title": "出海进入「体系化作战」时代：7月30日，直连游戏出海全链路资源",
+      "description": "预告游戏出海活动，强调体系化资源对接。属于行业活动资讯，对休闲游戏出海从业者有一般参考价值。",
+      "url": "https://mp.weixin.qq.com/s/VOrBm_swscnL9gkX4tqMIg",
+      "source": "微信-白鲸出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T21:30:00"
+    },
+    {
+      "title": "Gamescom 2026展览面积首次售罄",
+      "description": "科隆游戏展2026年展览面积首次全部预订，显示行业展会复苏。属于游戏行业宏观资讯，与休闲游戏关联较弱。",
+      "url": "https://www.gamesindustry.biz/gamescom-2026s-exhibition-area-is-fully-booked-for-the-first-time",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T20:37:44"
+    },
+    {
+      "title": "莉莉丝射击新作曝光，腾网米下一代射击开卷",
+      "description": "报道莉莉丝射击新作及腾讯、网易、米哈游下一代射击游戏竞争。属于射击品类动态，对休闲游戏从业者仅作行业趋势参考。",
+      "url": "https://mp.weixin.qq.com/s/VMFLbrHvLtLD8QCCPgYgAw",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T19:23:31"
+    },
+    {
+      "title": "腾网世纪华通B站上榜财富中国500强；君海游戏辟谣破产传闻",
+      "description": "汇总多家游戏公司财富榜排名及君海游戏辟谣消息。属于公司动态资讯，对了解行业格局有一般参考价值。",
+      "url": "https://mp.weixin.qq.com/s/RwvYZphMDWRQ2D4Gv9qbrQ",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T19:23:31"
+    },
+    {
+      "title": "字节曝光了一款MOBA射击游戏，由北京团队开发",
+      "description": "字节跳动旗下北京团队开发的MOBA射击游戏已在海外测试，属于新游动态，休闲游戏从业者可关注大厂布局。",
+      "url": "https://mp.weixin.qq.com/s/h8T0ooJQndQqqt5R8rBVWQ",
+      "source": "微信-游戏新知",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T18:20:22"
+    },
+    {
+      "title": "游戏日报发布2026年7月UGC平台排行榜",
+      "description": "游戏日报发布UGC平台排行榜，反映平台竞争格局，休闲游戏从业者可关注UGC趋势对游戏生态的影响。",
+      "url": "https://mp.weixin.qq.com/s/jRWeBctYD2lWbWvADqkKSg",
+      "source": "微信-游戏日报",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T17:58:51"
+    },
+    {
+      "title": "Kimi计划启动Pre-IPO融资，上半年Top10游戏厂商仅点点互动和柠檬微趣实现流水同比增长",
+      "description": "白鲸出海新闻，提到Top10游戏厂商中仅点点互动和柠檬微趣增长，这两家均为休闲游戏公司，对从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/_d-2O5b9tfw-svGaD9b5yw",
+      "source": "微信-白鲸出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T17:05:53"
+    },
+    {
+      "title": "《Mighty Doom》开发商Alpha Dog以独立工作室身份回归",
+      "description": "原微软旗下工作室Alpha Dog（开发《Mighty Doom》）创始人回购并独立运营，属于手游行业动态，休闲射击品类可关注。",
+      "url": "https://mobilegamer.biz/mighty-doom-dev-alpha-dog-is-back-as-an-independent-studio/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T12:11:24"
+    },
+    {
+      "title": "孩之宝取消多个游戏项目，记录5600万美元减记",
+      "description": "孩之宝宣布取消数款正在开发中的视频游戏，并记录5600万美元减记，公司表示将集中资源于具有系列潜力和更广泛机会的项目。该消息反映了大型IP授权方对游戏投资策略的收紧，对休闲游戏厂商的IP合作决策有参考意义。",
+      "url": "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-after-scrapping-several-video-games",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T10:54:10"
+    },
+    {
+      "title": "4399推出SLG新游，将《Last Asylum》瘟疫设定改为鼠患",
+      "description": "4399发布一款类似《Last Asylum》的SLG新游，核心玩法不变但主题改为鼠患。该新闻反映了SLG品类在题材换皮上的尝试，对休闲游戏厂商了解其他品类竞争格局有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/Xky3dEvOjsKhL73bVal5ew",
+      "source": "微信-急速行走的小U盘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-22T07:30:00"
+    },
+    {
+      "title": "EA认为游戏内广告投放规划应在开发阶段进行",
+      "description": "EA高管指出，在游戏开发早期就应规划广告植入位置，以提升用户体验与变现效率。该观点对休闲游戏从业者的广告策略设计有一定参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pcndkNzNoWS02ZjV6TnJaNFk1eW1RUmRvSGY2U3RzRkljWkNwR1BBVlAzYW12clFsdkZSeXlSeG9XZVhaTDNiQ3VTeV9rRlhmU1kzQQ?oc=5",
+      "source": "Google News",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-17T08:46:09"
     }
   ]
 }
