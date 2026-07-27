@@ -1,15 +1,276 @@
 {
   "updated": "2026-07-27",
-  "generated_at": "2026-07-27T06:48:10.869311",
+  "generated_at": "2026-07-27T09:43:30.258055",
   "articles": [
     {
-      "title": "在线粉丝如何改写IP玩法手册",
-      "description": "文章探讨了粉丝参与IP创作的新趋势，以Netflix的《Unhinged》和A24的《Backrooms》为例，展示了如何将手机变为控制器、接收游戏内通话和短信等互动方式。对休闲游戏从业者而言，可从中获取IP运营与玩家参与度提升的灵感。",
-      "url": "https://naavik.co/digest/how-online-fandom-is-rewriting-the-ip-playbook/",
-      "source": "Naavik",
+      "title": "Merge进入大厂时代：为什么爆款越来越难属于小团队？",
+      "description": "深度拆解Merge类游戏（如《Tasty Travels》）的工业化打法，分析大厂如何通过SLG式运营和买量策略垄断赛道。对消除/合成类手游从业者极具指导意义。",
+      "url": "https://mp.weixin.qq.com/s/woe-8lvwpg47loPuadm2Mg",
+      "source": "微信-DennisLook",
+      "category": "深度拆解",
+      "score": 10,
+      "published_at": "2026-07-25T22:12:12"
+    },
+    {
+      "title": "游戏“立项定生死”的论断是否准确？",
+      "description": "深度探讨立项在游戏开发中的关键作用，分析成功与失败案例。对休闲游戏制作人评估立项决策逻辑有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/iGZpqLzClQSjmMol_MUHIQ",
+      "source": "微信-无界游戏学社",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-07-26T17:00:00"
+    },
+    {
+      "title": "《Heartopia》出海买量观察：从家园场景到社交治愈，生活模拟品类如何打开海外市场",
+      "description": "详细拆解《Heartopia》买量素材结构，涵盖家园展示、角色外观、双人互动、版本活动等。对休闲游戏（尤其是生活模拟/消除类）素材创意和投放策略有直接指导价值。",
+      "url": "https://mp.weixin.qq.com/s/krvAKH8bsn-TP_ODGy7URw",
+      "source": "微信-这个游戏素材不错",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-07-25T12:10:00"
+    },
+    {
+      "title": "游戏圈苦“30%渠道税”久矣：Google Play新抽成规则全解析，谁才是赢家？",
+      "description": "全面解析Google Play新抽成规则变化，从30%一刀切转向分层抽成。对休闲游戏开发者收入和渠道策略有重大影响，值得深入研究。",
+      "url": "https://mp.weixin.qq.com/s/Z0FlOhpZg90ml7VGz1T25w",
+      "source": "微信-GameMarket洞察",
+      "category": "行业资讯",
+      "score": 8,
+      "published_at": "2026-07-25T10:12:22"
+    },
+    {
+      "title": "统计5万多款游戏后发现，AI承包了Steam九成新品增长",
+      "description": "报告显示Steam上AI相关游戏数量激增，但爆款并未同步增加。从业者可了解AI技术在游戏行业的最新渗透情况与市场反馈。",
+      "url": "https://mp.weixin.qq.com/s/thWEAPjk816JwtsDHm_Tcw",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-26T23:23:00"
+    },
+    {
+      "title": "游戏出海素材本地化怎么做？这四处不能直接翻译",
+      "description": "指出游戏素材本地化的常见误区，强调字幕、画面、奖励、角色场景需针对性调整。对休闲游戏出海团队优化广告素材有实操帮助。",
+      "url": "https://mp.weixin.qq.com/s/TBrTGV5Y3CfZMbkWZ9NSNw",
+      "source": "微信-这个游戏素材不错",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-27T09:08:14"
+    },
+    {
+      "title": "小游戏百强榜最低调的深圳厂商，又跑出一款黑马产品",
+      "description": "介绍古风女性向小游戏《空格之境》的玩法与市场表现，分析其成为黑马的原因。对休闲小游戏从业者有竞品参考价值。",
+      "url": "https://mp.weixin.qq.com/s/NTE-_5TfKAZJrWVacod3sQ",
+      "source": "微信-橙了个橘",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-26T23:33:43"
+    },
+    {
+      "title": "游戏行业AI渗透现状与分层趋势",
+      "description": "报告分析2026年上市游戏公司AI渗透率，揭示大厂与中小厂商的AI发展路径分化。对休闲游戏从业者了解行业AI应用趋势、降本增效策略有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/jenTfy7ksseZbGVOegrI8w",
+      "source": "微信-扬帆出海",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-25T20:59:01"
+    },
+    {
+      "title": "《遗忘之海》畅销榜47名，3600万预约为何没转化成流水？",
+      "description": "分析《遗忘之海》高预约但低流水的原因，探讨预约转化与产品调优问题。对休闲游戏运营和发行策略有借鉴意义。",
+      "url": "https://mp.weixin.qq.com/s/Lv6ZnQikfFvlP2Vkcr4mIw",
+      "source": "微信-游创工坊",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-07-25T12:30:00"
+    },
+    {
+      "title": "技能升级路线需要避免只剩下数值加成",
+      "description": "探讨游戏技能升级设计应避免纯数值堆砌，强调机制变化和玩家体验。对休闲游戏角色养成和关卡设计有通用指导意义。",
+      "url": "https://mp.weixin.qq.com/s/E_KFUm5tz1ONRtxZfDO32Q",
+      "source": "微信-欧米De游戏开发小屋",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-07-25T11:00:00"
+    },
+    {
+      "title": "日系暗黑爬塔新品拆解｜タワーオブグレイ (Tower of Gray)：灰塔深渊肉鸽爬塔+据点生存策略手游",
+      "description": "拆解日本独立厂商的新作《Tower of Gray》，分析其肉鸽爬塔与据点生存玩法。对关注日系手游趋势的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/V_RkYixQvNbCvPKdHVBFCg",
+      "source": "微信-阿杜聊游戏",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-27T09:00:00"
+    },
+    {
+      "title": "下一个出海蓝海？中国游戏正在“低调占领”斯洛文尼亚",
+      "description": "市场分析文章，介绍斯洛文尼亚作为出海新市场的潜力，包括玩家素质、电竞生态和本地化优势。对休闲游戏出海选点有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/8E0bQ-vrRQy6nuWGCI-USw",
+      "source": "微信-晚风游谈",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-26T22:42:19"
+    },
+    {
+      "title": "发行泡汤、V社警告，却流水超6亿，制作人：我本来最不看好它……",
+      "description": "爆款游戏背后的50个决策故事，讲述产品从不被看好的逆袭经过。对游戏发行与运营策略有启发意义。",
+      "url": "https://mp.weixin.qq.com/s/wYhFscpL5JLGf58bXo1BVg",
+      "source": "微信-游戏葡萄",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-26T22:28:00"
+    },
+    {
+      "title": "黄一孟分享TapTap数据：半年新增4000款AI小游戏，PC版DAU超50万",
+      "description": "心动CEO披露TapTap关键数据，AI小游戏半年暴增至4000款，PC端DAU突破50万。对休闲小游戏团队是重要的平台生态与渠道信号。",
+      "url": "https://mp.weixin.qq.com/s/TvSP5J218P3e-QlhVEUx1A",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-26T18:10:18"
+    },
+    {
+      "title": "本周iOS美区休闲游戏新游｜2026W30",
+      "description": "盘点本周iOS美区新上线的休闲游戏，亮点为“蚂蚁搬家”。直接提供竞品情报与品类趋势，适合休闲游戏从业者追踪海外市场动态。",
+      "url": "https://mp.weixin.qq.com/s/EejFI45NNcu7D848eDlxOg",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-26T11:58:00"
+    },
+    {
+      "title": "海外休闲三消新品｜Royal Adventure - Match 3 Game：王室环球旅行主题轻量三消解谜手游",
+      "description": "报道北京极客创游推出的童话风三消新作《Royal Adventure - Match 3 Game》，主打王室环球旅行主题，为三消市场提供新品参考。",
+      "url": "https://mp.weixin.qq.com/s/3F8F1mdhxQw__38E6DpLog",
+      "source": "微信-阿杜聊游戏",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-26T09:00:00"
+    },
+    {
+      "title": "放弃内卷！中国游戏正在“悄悄攻占”斯洛伐克",
+      "description": "分析中国游戏进军斯洛伐克市场的机会，强调低成本获客与本地化优势，对休闲游戏出海有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/RNq7cJ5_cuiN7BlUiGo4Ew",
+      "source": "微信-晚风游谈",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-25T22:52:23"
+    },
+    {
+      "title": "竞品广告监测工具怎么选？不要只看广告数量",
+      "description": "提供选择竞品广告监测工具的建议，强调分析投放动作而非单纯数量。对休闲游戏广告投放团队有实用价值。",
+      "url": "https://mp.weixin.qq.com/s/TCwWRyiuZJ2XrBt1sVI0Uw",
+      "source": "微信-这个游戏素材不错",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-07-25T10:30:00"
+    },
+    {
+      "title": "河南一父亲因儿子沉迷游戏服药入院，起诉腾讯、网易、米哈游和三七互娱索赔10元",
+      "description": "社会新闻事件，讲述一位父亲因孩子沉迷游戏而极端服药，并起诉多家游戏公司索赔象征性10元。对休闲游戏从业者而言，此事件提醒关注未成年人保护与社会舆论风险。",
+      "url": "https://mp.weixin.qq.com/s/B-ot0l5gQPDKZiUJaGnXCg",
+      "source": "微信-一枚游戏干饭人",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-26T17:30:00"
+      "published_at": "2026-07-27T08:03:00"
+    },
+    {
+      "title": "速登畅销第3！37《镇邪人》凭什么又爆了？",
+      "description": "分析盗墓微恐题材游戏《镇邪人》的爆款原因，属轰隆隆Like玩法。对休闲游戏从业者了解当下热门品类有参考意义。",
+      "url": "https://mp.weixin.qq.com/s/49ThgeFLB1cnQTEbzbeyZA",
+      "source": "微信-急速行走的小U盘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-27T07:30:00"
+    },
+    {
+      "title": "TDW 2026：黄一孟发布AI Agent产品Cindy，TapTap拥抱AI Native开放创作生态",
+      "description": "2026 TapTap开发者沙龙上，心动CEO黄一孟发布AI Agent产品Cindy，推动平台AI生态开放。对休闲游戏从业者而言，AI工具与平台政策变化可能影响小游戏分发和创作模式。",
+      "url": "https://mp.weixin.qq.com/s/z2n71p2Ul0ObIR6LSp251g",
+      "source": "微信-GameRes游资网",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T21:38:52"
+    },
+    {
+      "title": "新游暴涨10倍，心动新AI诞生，黄一孟称过去两个月是创业以来最兴奋的",
+      "description": "文章报道心动公司新游表现及AI战略，强调开放与开源。休闲游戏开发者可关注其AI在游戏开发中的应用趋势及TapTap平台扶持方向。",
+      "url": "https://mp.weixin.qq.com/s/DaNw7mbcNiax34NxOma35g",
+      "source": "微信-游戏那点事Gamez",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T21:19:50"
+    },
+    {
+      "title": "一天之内暴涨94名，《无尽冬日》又被压了下去，赛季制终于又硬了一次",
+      "description": "分析SLG《无尽冬日》排名波动及赛季制效果，虽非三消品类，但赛季制设计思路和运营策略对休闲游戏的长线留存有借鉴意义。",
+      "url": "https://mp.weixin.qq.com/s/WgobL5JOv5JOmb6ieDoiIQ",
+      "source": "微信-百游录",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T21:00:00"
+    },
+    {
+      "title": "7月27日—8月2日共有22款游戏开测｜GameRes",
+      "description": "汇总下周22款游戏开测信息，包含休闲/消除类新游动向。从业者可快速获取竞品测试排期和品类趋势。",
+      "url": "https://mp.weixin.qq.com/s/bZZxqwLJvuO0bEisCm6ymQ",
+      "source": "微信-GameRes游资网",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T18:39:58"
+    },
+    {
+      "title": "腾讯曝百亿收购案，《辉烬》团队解散，莉莉丝新作曝光｜陀螺周报",
+      "description": "一周行业新闻汇总，涉及腾讯收购、团队变动、新游曝光等。休闲游戏从业者可了解资本动态与同行动向。",
+      "url": "https://mp.weixin.qq.com/s/xQx1pTXB_R9UJ9aygbyyTA",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T18:10:18"
+    },
+    {
+      "title": "7月新注册的一些游戏、工具、AI网站#003",
+      "description": "盘点7月新注册的游戏、工具和AI网站，信息较为零散，适合关注出海工具和新兴项目的从业者快速浏览。",
+      "url": "https://mp.weixin.qq.com/s/SJ8RSsy8AdQsHIlUTrhRwQ",
+      "source": "微信-熊猫游戏出海",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-26T11:58:00"
+    },
+    {
+      "title": "字节的游戏连续剧又开始了，这次算“第五季”",
+      "description": "梳理字节跳动游戏业务的发展历程与最新动态，对了解大厂布局有意义，但非三消专项。",
+      "url": "https://mp.weixin.qq.com/s/-Ubwgbm_NhOz7qRPZ23RWQ",
+      "source": "微信-橙了个橘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-25T22:57:30"
+    },
+    {
+      "title": "Slots CPA 3 ，量化金融CPA 50，你的产品在TikTok哪条线上？",
+      "description": "介绍TikTok海外广告投放中不同品类（Slots、量化金融）的CPA差异。对休闲游戏（尤其是Slots类）买量策略有参考意义。",
+      "url": "https://mp.weixin.qq.com/s/4EkdkmAiJXdronG7mdeLRg",
+      "source": "微信-熊猫海外投放笔记",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-25T16:08:41"
+    },
+    {
+      "title": "欧盟放行550亿收购，EA内部却炸了：几十亿债务谁背？",
+      "description": "报道欧盟批准EA出售给沙特财团交易及内部争议。属于公司并购新闻，对休闲游戏行业影响有限但可关注格局变化。",
+      "url": "https://mp.weixin.qq.com/s/S9NrnZQ1Pw1IJ0sUMov_Dg",
+      "source": "微信-GameMarket洞察",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-25T10:12:22"
+    },
+    {
+      "title": "红黑榜第74期：噜咪噜咪，滑不拉几",
+      "description": "对某款游戏（可能名为'噜咪噜咪'）的简评，讨论其生态与商业化自洽性。内容较简短，可作为游戏评测参考。",
+      "url": "https://mp.weixin.qq.com/s/PNwxY8SLP6ic5UeYrJs13A",
+      "source": "微信-斫玉记",
+      "category": "泛游戏",
+      "score": 5,
+      "published_at": "2026-07-25T09:06:00"
     }
   ]
 }
