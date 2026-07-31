@@ -1,60 +1,87 @@
 {
-  "updated": "2026-07-31",
-  "generated_at": "2026-07-31T09:36:28.742035",
+  "updated": "2026-08-01",
+  "generated_at": "2026-08-01T06:49:57.350647",
   "articles": [
     {
-      "title": "新游摘要：Lumines、堡垒之夜、Rust、王者荣耀、变形金刚、植物大战僵尸3及Moon Active软启动等",
-      "description": "汇总近期多款新游动态，涵盖主机、PC与移动端，包括《植物大战僵尸3》和Moon Active的软启动。适合快速了解新品阵容与休闲手游市场布局。",
-      "url": "https://mobilegamer.biz/new-game-digest-lumines-fortnite-rust-honor-of-kings-ace-transformers-plants-vs-zombies-3-moon-actives-new-soft-launch-more/",
-      "source": "Mobile Gamer Biz",
+      "title": "Roblox第二季度营收增长36%，达15亿美元",
+      "description": "Roblox公布Q2财报，营收同比大幅增长36%至15亿美元，但净预订量略低于预期。该数据可帮助从业者了解UGC/在线游戏平台生态及休闲向用户的消费趋势。",
+      "url": "https://www.gamesindustry.biz/roblox-q2-revenue-rises-36-to-15bn",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-30T23:16:44"
+      "published_at": "2026-07-31T07:52:59"
     },
     {
-      "title": "Gamesight：创作者数量是游戏成功的最佳预测指标，而非观看量",
-      "description": "数据显示，对PvP FPS游戏而言，上线后活跃创作者/主播数量比总观看时长更能预示成功。从业者可据此调整创作者营销策略，重视内容生态的早期建设。",
-      "url": "https://www.gamesindustry.biz/gamesight-creators-are-best-predictor-for-a-games-success-not-viewership",
+      "title": "Xbox（可能）不会出售｜观点",
+      "description": "文章从微软Xbox业务当前的困境、裁员和项目取消等事件切入，分析为何各方猜测的出售并不现实。这是一篇偏观点式的行业评论，可帮助理解Xbox的处境。",
+      "url": "https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-30T12:26:51"
+      "published_at": "2026-07-31T15:21:24"
     },
     {
-      "title": "Drilo Ventures设立3000万美元基金，押注土耳其第二代游戏创业者",
-      "description": "新基金由Doğukan Çetin与Umut Yaka创立，计划投资土耳其游戏创始人，首笔交易将于10月完成。反映新兴市场游戏创业与投资热度，对有出海土耳其计划的团队有参考意义。",
-      "url": "https://mobilegamer.biz/drilo-ventures-reveals-30m-fund-for-turkiyes-second-wave-of-gaming-founders/",
-      "source": "Mobile Gamer Biz",
+      "title": "Xbox CEO提出FY27扭转平台优先事项：不会活在过去成功或受困于过去失败",
+      "description": "Xbox CEO Asha Sharma详细阐述了FY27的优先计划，此前Xbox全年收入下滑17亿美元。文章对了解平台方战略调整和行业风向有一定价值。",
+      "url": "https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-29T15:58:46"
+      "published_at": "2026-07-31T13:40:23"
     },
     {
-      "title": "EA掌门人年薪3860万美元：系列成功、工作室裁员与GenAI并行",
-      "description": "报道EA首席执行官Andrew Wilson在近期获3860万美元薪酬，同时公司推进工作室裁员和生成式AI应用。文章有助于从业者了解头部发行商高管激励与战略取舍，但与休闲游戏设计/变现无直接关系。",
-      "url": "https://www.gamedeveloper.com/business/ea-boss-awarded-38-6m-after-year-of-franchise-success-studio-layoffs-and-genai-adoption",
+      "title": "Patch Notes #63：Double Fine裁员、Xbox收入下滑、里昂·肯尼迪迎来回报",
+      "description": "本期游戏行业播客汇总了Double Fine裁员、Xbox收入下滑等新闻，并提及《Buckshot Roulette》开发商发布了一款恐怖版《马力欧派对》的作品。内容偏行业周报，适合快速了解近期动态。",
+      "url": "https://www.gamedeveloper.com/business/xbox-perpetual-hardware-revenue-decline-leon-kennedy-pays-off-and-double-fine-cuts-staff-patch-notes-63",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-29T10:10:51"
+      "published_at": "2026-07-31T13:00:00"
     },
     {
-      "title": "英国游戏基金公布迄今最大规模独立工作室资助名单，单项最高10万英镑",
-      "description": "英国游戏基金宣布自2015年以来规模最大的受助独立工作室阵容，单个项目最高可获10万英镑。该消息有助于了解英国独立游戏生态与扶持政策，但并非休闲游戏专业分析。",
-      "url": "https://www.gamesindustry.biz/uk-games-fund-announces-largest-cohort-of-indie-studios-to-receive-grants-of-up-to-100000",
+      "title": "Unity宣布为Netflix Games提供专属引擎支持",
+      "description": "Unity推出面向Netflix游戏平台的专属引擎支持，方便开发者将作品发布到该生态。对关注跨平台分发和流媒体游戏机会的从业者有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/unity-announces-dedicated-engine-for-netflix-games",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-29T08:55:39"
+      "published_at": "2026-07-31T12:59:19"
     },
     {
-      "title": "Double Fine裁员23人：从Xbox独立后员工规模缩减25%",
-      "description": "Double Fine Productions在与Xbox完全分拆后裁员23人，约占员工总数25%。文章反映工作室独立初期的人员震荡，适合关注行业重组与团队稳定性的从业者参考。",
-      "url": "https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox",
+      "title": "游戏开发中“零工人才”的作用日益突出",
+      "description": "Naavik播客讨论在裁员、招聘冻结和长周期开发背景下，介于全职与咨询之间的零工合作模式如何兴起。对团队弹性用人和成本控制有借鉴意义。",
+      "url": "https://naavik.co/podcast/fractional-talents-growing-role-in-game-development/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-31T11:30:00"
+    },
+    {
+      "title": "PlayStation第一财季销售持平，称正“谨慎推进”停产实体光盘",
+      "description": "索尼游戏与网络服务部门Q1销售额持平，但营业利润因美国关税返还增长37%。文章提到实体光盘停产进度保持谨慎，对关注主机产业和发行渠道变化的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-29T07:26:52"
+      "published_at": "2026-07-31T11:21:17"
+    },
+    {
+      "title": "EA收购案已获所有监管批准，将于8月4日完成交割",
+      "description": "这笔550亿美元的EA私有化交易已获得所有必要监管批准，并定于8月4日正式完成。相关进展有助于判断EA被收购后游戏产品线（包括休闲/移动业务）的走向。",
+      "url": "https://www.gamesindustry.biz/ea-acquisition-set-to-close-on-august-4-following-approval-from-required-regulatory-bodies",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-31T09:47:25"
+    },
+    {
+      "title": "EP55.《战神：劳菲》定档、艾希2、明末IP续作情报汇总",
+      "description": "本期节目汇总《战神：劳菲》定档以及《艾希2》、明末IP续作等新作情报。属于新游信息播报，帮助从业者关注头部IP动向，但缺乏休闲游戏相关分析。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a6c0fe656a3f3491ba7d342",
+      "source": "播客-游你友我",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-31T03:06:03"
     }
   ]
 }
