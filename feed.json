@@ -1,60 +1,60 @@
 {
   "updated": "2026-07-31",
-  "generated_at": "2026-07-31T06:48:51.821914",
+  "generated_at": "2026-07-31T09:36:28.742035",
   "articles": [
     {
-      "title": "三七再推新游《Shelter Days》：116个市场开测，“避难所经营+三消SLG”新模板能否跑通？",
-      "description": "三七互娱新游《Shelter Days》将三消与避难所经营、SLG元素融合，在116个市场测试。文章深度分析了这套混合模板的设计逻辑与市场前景，对三消/消除类游戏的玩法融合创新有重要参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jYmdaak04dnJEQl8xeWFZZWlqZUhkUE96Mmk1c1dnYzhuMXljN1h4a1pHLUZXeEl1QjJjOW9pckxuX0pKQW9RekJXN1A?oc=5",
-      "source": "Google News",
-      "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-07-30T09:33:32"
-    },
-    {
-      "title": "半年收入110亿美元，休闲游戏表面原地踏步，其实已经换了一批赢家",
-      "description": "白鲸出海发布休闲游戏半年收入报告，总额110亿美元但头部格局剧变。文章揭示了新兴品类和厂商的崛起趋势，对休闲游戏从业者的市场判断和立项方向具有直接指导意义。",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91a3JtV0duZ0FraVlYdWxGSnNkZGhXNThkUVdoRW9hRldxY1o1ZE9OR0Y4MU9RMW90U21vMVA2eFBzMXhBaEotOU1zRjM?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 8,
-      "published_at": "2026-07-30T08:48:07"
-    },
-    {
-      "title": "AppMagic：《宝可梦GO》十周年庆典期间收入4850万美元",
-      "description": "《宝可梦GO》在十周年周内获得4850万美元内购收入，展示IP运营与LiveOps的强大变现能力。对休闲游戏节日活动设计有参考价值。",
-      "url": "https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations",
-      "source": "GamesIndustry.biz",
+      "title": "新游摘要：Lumines、堡垒之夜、Rust、王者荣耀、变形金刚、植物大战僵尸3及Moon Active软启动等",
+      "description": "汇总近期多款新游动态，涵盖主机、PC与移动端，包括《植物大战僵尸3》和Moon Active的软启动。适合快速了解新品阵容与休闲手游市场布局。",
+      "url": "https://mobilegamer.biz/new-game-digest-lumines-fortnite-rust-honor-of-kings-ace-transformers-plants-vs-zombies-3-moon-actives-new-soft-launch-more/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-07-30T12:46:35"
+      "published_at": "2026-07-30T23:16:44"
     },
     {
-      "title": "苹果反击英国监管机构开放App Store的尝试",
-      "description": "英国监管机构要求允许开发者使用外部支付选项，苹果强烈反对。这一政策变动将影响所有手游（含休闲游戏）的支付分成，值得关注。",
-      "url": "https://mobilegamer.biz/apple-objects-to-uk-regulators-attempt-to-open-up-the-app-store/",
+      "title": "Gamesight：创作者数量是游戏成功的最佳预测指标，而非观看量",
+      "description": "数据显示，对PvP FPS游戏而言，上线后活跃创作者/主播数量比总观看时长更能预示成功。从业者可据此调整创作者营销策略，重视内容生态的早期建设。",
+      "url": "https://www.gamesindustry.biz/gamesight-creators-are-best-predictor-for-a-games-success-not-viewership",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-30T12:26:51"
+    },
+    {
+      "title": "Drilo Ventures设立3000万美元基金，押注土耳其第二代游戏创业者",
+      "description": "新基金由Doğukan Çetin与Umut Yaka创立，计划投资土耳其游戏创始人，首笔交易将于10月完成。反映新兴市场游戏创业与投资热度，对有出海土耳其计划的团队有参考意义。",
+      "url": "https://mobilegamer.biz/drilo-ventures-reveals-30m-fund-for-turkiyes-second-wave-of-gaming-founders/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-30T14:33:41"
+      "published_at": "2026-07-29T15:58:46"
     },
     {
-      "title": "Poinpy复活背后的真相",
-      "description": "Netflix旗下休闲游戏Poinpy重新上线且表现更好，文章揭示其复活策略。对休闲游戏长线运营和内容回炉有启发意义。",
-      "url": "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-of-poinpy",
+      "title": "EA掌门人年薪3860万美元：系列成功、工作室裁员与GenAI并行",
+      "description": "报道EA首席执行官Andrew Wilson在近期获3860万美元薪酬，同时公司推进工作室裁员和生成式AI应用。文章有助于从业者了解头部发行商高管激励与战略取舍，但与休闲游戏设计/变现无直接关系。",
+      "url": "https://www.gamedeveloper.com/business/ea-boss-awarded-38-6m-after-year-of-franchise-success-studio-layoffs-and-genai-adoption",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-30T13:46:41"
+      "published_at": "2026-07-29T10:10:51"
     },
     {
-      "title": "Unity为Netflix游戏提供专属引擎支持",
-      "description": "Unity宣布为Netflix游戏生态提供专用引擎支持，帮助开发者更高效产出跨平台作品。休闲游戏团队可关注Netflix发行渠道的新机会。",
-      "url": "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-support-to-netflix-games",
-      "source": "Game Developer",
+      "title": "英国游戏基金公布迄今最大规模独立工作室资助名单，单项最高10万英镑",
+      "description": "英国游戏基金宣布自2015年以来规模最大的受助独立工作室阵容，单个项目最高可获10万英镑。该消息有助于了解英国独立游戏生态与扶持政策，但并非休闲游戏专业分析。",
+      "url": "https://www.gamesindustry.biz/uk-games-fund-announces-largest-cohort-of-indie-studios-to-receive-grants-of-up-to-100000",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-30T13:15:32"
+      "published_at": "2026-07-29T08:55:39"
+    },
+    {
+      "title": "Double Fine裁员23人：从Xbox独立后员工规模缩减25%",
+      "description": "Double Fine Productions在与Xbox完全分拆后裁员23人，约占员工总数25%。文章反映工作室独立初期的人员震荡，适合关注行业重组与团队稳定性的从业者参考。",
+      "url": "https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-07-29T07:26:52"
     }
   ]
 }
