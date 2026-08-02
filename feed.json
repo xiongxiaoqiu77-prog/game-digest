@@ -1,42 +1,33 @@
 {
-  "updated": "2026-08-02",
-  "generated_at": "2026-08-02T06:49:18.799388",
+  "updated": "2026-08-03",
+  "generated_at": "2026-08-03T06:50:06.276908",
   "articles": [
     {
-      "title": "工业化、IP化、科技化：从三七互娱看广东文化产业转型的三重逻辑",
-      "description": "文章以三七互娱为例，分析广东文化产业在工业化、IP化和科技化方向的转型路径。对关注国内游戏公司战略和区域产业政策的从业者有参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4bnlUZkd1SGFtYndEYWdiTnZYR2x1NE5RS29nX0FXY3pTOWpQMncyR2M3REk4alVneDhYakhQZVNoSU9yWE5oOHJqam9VcXU3VEFyZGdWZ2xxUHlHeVlNOQ?oc=5",
+      "title": "中国平台主导型游戏模式为何失灵？——阿里传出售灵犀互娱",
+      "description": "据多家中国媒体报道，阿里巴巴正寻求出售《三国志·战略版》开发商灵犀互娱，估值约70亿至90亿元人民币。文章以此为切入点，分析中国平台主导型游戏模式的结构性困境，对了解中国手游市场与渠道格局有参考价值，但未涉及休闲玩法设计。",
+      "url": "https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/",
+      "source": "Naavik",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-02T17:30:00"
+    },
+    {
+      "title": "核周报 8.1：CJ 现场、联动与新作消息",
+      "description": "机核播客的每周游戏新闻速递，涵盖CJ现场盛况、DND与《魔兽世界》联动、《绝地遣兵2》与《战锤40k》联动、《无常》续作公布以及独立游戏市集消息。内容偏行业动态与玩家向资讯，对三消/消除类研发运营的直接帮助有限。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a6f2e88ab3a91c24a0e89b6",
+      "source": "播客-机核游戏频道",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-02T11:52:43"
+    },
+    {
+      "title": "研究：极端社交退缩者更偏爱合作、低压力电子游戏",
+      "description": "一项研究指出，极端社交退缩者往往更喜欢合作、低压力的电子游戏。对于休闲游戏从业者了解低压力/合作型玩家偏好具有一定的参考价值，但并非玩法或商业化分析。",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FSnNoTDFnUWNDdmNnSGRidGlvYzRoRXlfTDg4WVNxdnhaazRMNF9LRmpyVTBISVdlX1lLU2RwSXVQaDBOLUhwOXVxa3diQ09yeEpoZDRuYWs1ZFZaREU5WnBIYTY1dm9BME5NWGpDVnBKSkE?oc=5",
       "source": "Google News",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-01T01:41:25"
-    },
-    {
-      "title": "EA私有化交易获得美国监管批准",
-      "description": "沙特主权基金收购EA的私有化交易已清除美国监管障碍，预计下周完成。这是重要的全球游戏行业资本动态，对了解行业股权格局变化有参考意义。",
-      "url": "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-have-been-cleared-for-its-take-private-deal",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-31T19:06:37"
-    },
-    {
-      "title": "Xbox CEO在“重置”后明确优先事项",
-      "description": "Xbox CEO Asha Sharma在最新一轮裁员后公布重整计划，承认财年收入下滑并承诺下一年重回增长轨道。反映主机平台战略调整与当前行业压力。",
-      "url": "https://www.gamedeveloper.com/business/xbox-ceo-declares-priorities-after-reset-",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-31T15:45:42"
-    },
-    {
-      "title": "游戏周报260731期：暴雪GM开挂、育碧重制卖爆、战神新作定档等",
-      "description": "游戏行业一周要闻汇总，涵盖Xbox、PS、任天堂及多家厂商动态，包括《战神：劳菲》定档、《刺客信条：黑旗》重制销量和卡普空财报等。适合快速了解近期行业大事。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a6bab3d56a3f3491ba7b5f1",
-      "source": "播客-游戏酒馆",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-31T00:00:00"
+      "published_at": "2026-07-31T13:38:14"
     }
   ]
 }
