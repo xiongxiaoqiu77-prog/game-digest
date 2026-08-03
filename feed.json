@@ -1,33 +1,69 @@
 {
-  "updated": "2026-08-03",
-  "generated_at": "2026-08-03T06:50:06.276908",
+  "updated": "2026-08-04",
+  "generated_at": "2026-08-04T06:51:55.666075",
   "articles": [
     {
-      "title": "中国平台主导型游戏模式为何失灵？——阿里传出售灵犀互娱",
-      "description": "据多家中国媒体报道，阿里巴巴正寻求出售《三国志·战略版》开发商灵犀互娱，估值约70亿至90亿元人民币。文章以此为切入点，分析中国平台主导型游戏模式的结构性困境，对了解中国手游市场与渠道格局有参考价值，但未涉及休闲玩法设计。",
-      "url": "https://naavik.co/digest/the-structural-failure-of-platform-led-gaming-in-china/",
-      "source": "Naavik",
+      "title": "容易被忽视的5个关键数字：Sensor Tower移动游戏广告变现报告解读",
+      "description": "文章提炼Sensor Tower移动游戏广告变现报告中的5个关键数据，分析手游广告变现趋势与市场信号。对休闲游戏IAA策略、eCPM走向和混合变现设计有较高参考价值。",
+      "url": "https://www.deconstructoroffun.com/blog/5-numbers-hiding-in-plain-sight-sensor-towers-ad-monetization-report",
+      "source": "Deconstructor of Fun",
+      "category": "深度拆解",
+      "score": 8,
+      "published_at": "2026-08-03T10:31:44"
+    },
+    {
+      "title": "金鲨银鲨电玩城（官方）：从产品定位到用户生态的全面拆解（2026版）",
+      "description": "围绕金鲨银鲨电玩城的产品定位、目标用户和用户生态进行系统拆解，涉及电玩/休闲娱乐类App的获客与运营逻辑。对关注中文休闲娱乐产品商业化与用户增长的从业者有一定参考价值，但并非三消玩法专题分析。",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xUFJ6MDVybGRxbXB4TS1kajlVbDBfOTYzUXRhZ21nWXpTQnhMclhzdjNDQ2o4Y2RCVUZqUGU4TGs2SHpxUTRMWGRYRmZaVl9TWG5mdmQxc2lpalE?oc=5",
+      "source": "Google News",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-03T01:17:09"
+    },
+    {
+      "title": "Ustwo Games：被免费模式挤出手游市场，但移动端做法正向PC迁移",
+      "description": "《纪念碑谷》开发商Ustwo Games回顾了免费模式崛起对精品付费手游的挤压，并已转向PC-first策略。文章讨论移动开发经验如何在PC延续，对手游产品趋势有一定参考价值。",
+      "url": "https://www.gamesindustry.biz/ustwo-games-was-pushed-out-of-mobile-by-the-rise-of-free-to-play-but-the-mobile-way-of-doing-things-is-coming-to-pc",
+      "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-02T17:30:00"
+      "published_at": "2026-08-03T14:59:24"
     },
     {
-      "title": "核周报 8.1：CJ 现场、联动与新作消息",
-      "description": "机核播客的每周游戏新闻速递，涵盖CJ现场盛况、DND与《魔兽世界》联动、《绝地遣兵2》与《战锤40k》联动、《无常》续作公布以及独立游戏市集消息。内容偏行业动态与玩家向资讯，对三消/消除类研发运营的直接帮助有限。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a6f2e88ab3a91c24a0e89b6",
+      "title": "Roblox推出“Slim”技术，让复杂Avatar可在低端安卓运行并推动移动端创作",
+      "description": "Roblox称新Slim技术可让复杂Avatar在低端Android设备上运行，同时推动“在移动端创建游戏”的方向。与移动端UGC和休闲/轻度多人游戏相关，值得从业者留意。",
+      "url": "https://mobilegamer.biz/roblox-says-new-slim-tech-will-let-complex-avatars-run-on-low-end-android-as-it-pushes-mobile-first-game-creation/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T10:00:16"
+    },
+    {
+      "title": "EA、腾讯、Moon Active、Take-Two等厂商值得关注的软启动测试游戏",
+      "description": "文章汇总多家头部移动游戏厂商正在软启动测试的产品，涵盖测试区域、品类和玩法信息。适合休闲游戏从业者作为市场观察与竞品情报参考。",
+      "url": "https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T08:30:00"
+    },
+    {
+      "title": "Garena宣布推出《Palworld Online》手游MMO",
+      "description": "Garena与Pocketpair合作，将基于《幻兽帕鲁》IP打造移动端MMO，计划年内登陆iOS和Android。热门IP转手游值得关注，但非三消/休闲品类核心内容。",
+      "url": "https://mobilegamer.biz/garena-announces-palworld-online-a-mobile-mmo-based-on-pocketpairs-hit-survival-game/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T11:29:01"
+    },
+    {
+      "title": "松弛聊手游：先刷活动还是通主线？",
+      "description": "机核手游闲聊节目，讨论《绝区零》《鸣潮》《明日方舟》等产品的新版本与活动，以及经典MMO《洛奇》手游对移动端节奏的适配。涉及手游LiveOps与内容节奏话题，对休闲游戏运营有一定延伸参考，但非深度拆解。",
+      "url": "https://www.xiaoyuzhoufm.com/episode/6a6c13d7b581962ce2be4f46",
       "source": "播客-机核游戏频道",
-      "category": "行业资讯",
+      "category": "泛游戏",
       "score": 5,
-      "published_at": "2026-08-02T11:52:43"
-    },
-    {
-      "title": "研究：极端社交退缩者更偏爱合作、低压力电子游戏",
-      "description": "一项研究指出，极端社交退缩者往往更喜欢合作、低压力的电子游戏。对于休闲游戏从业者了解低压力/合作型玩家偏好具有一定的参考价值，但并非玩法或商业化分析。",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FSnNoTDFnUWNDdmNnSGRidGlvYzRoRXlfTDg4WVNxdnhaazRMNF9LRmpyVTBISVdlX1lLU2RwSXVQaDBOLUhwOXVxa3diQ09yeEpoZDRuYWs1ZFZaREU5WnBIYTY1dm9BME5NWGpDVnBKSkE?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-07-31T13:38:14"
+      "published_at": "2026-07-31T03:27:56"
     }
   ]
 }
