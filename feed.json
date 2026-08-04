@@ -1,69 +1,303 @@
 {
-  "updated": "2026-08-04",
-  "generated_at": "2026-08-04T06:51:55.666075",
+  "updated": "2026-08-05",
+  "generated_at": "2026-08-05T06:52:46.567388",
   "articles": [
     {
-      "title": "容易被忽视的5个关键数字：Sensor Tower移动游戏广告变现报告解读",
-      "description": "文章提炼Sensor Tower移动游戏广告变现报告中的5个关键数据，分析手游广告变现趋势与市场信号。对休闲游戏IAA策略、eCPM走向和混合变现设计有较高参考价值。",
-      "url": "https://www.deconstructoroffun.com/blog/5-numbers-hiding-in-plain-sight-sensor-towers-ad-monetization-report",
-      "source": "Deconstructor of Fun",
+      "title": "从0搭建游戏数值框架：有哪些好用的整体思路？",
+      "description": "文章系统梳理了从零搭建游戏数值框架的完整思路，涵盖经济系统、成长线、战斗数值与商业化数值等模块。能为策划搭建可维护、可验证的数值体系提供清晰的方法论参考。",
+      "url": "https://mp.weixin.qq.com/s/1FPWTOVvt3uVWl009nYLhw",
+      "source": "微信-无界游戏学社",
       "category": "深度拆解",
-      "score": 8,
-      "published_at": "2026-08-03T10:31:44"
+      "score": 9,
+      "published_at": "2026-08-03T17:32:11"
     },
     {
-      "title": "金鲨银鲨电玩城（官方）：从产品定位到用户生态的全面拆解（2026版）",
-      "description": "围绕金鲨银鲨电玩城的产品定位、目标用户和用户生态进行系统拆解，涉及电玩/休闲娱乐类App的获客与运营逻辑。对关注中文休闲娱乐产品商业化与用户增长的从业者有一定参考价值，但并非三消玩法专题分析。",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xUFJ6MDVybGRxbXB4TS1kajlVbDBfOTYzUXRhZ21nWXpTQnhMclhzdjNDQ2o4Y2RCVUZqUGU4TGs2SHpxUTRMWGRYRmZaVl9TWG5mdmQxc2lpalE?oc=5",
+      "title": "微信PC小游戏新政发布：额外激励10%广告金，有效期可延长至12个月",
+      "description": "微信PC小游戏推出新政策，额外激励10%广告金，且有效期最长可延至12个月。对布局微信小游戏生态的休闲与超休闲开发者而言，是明确的流量与变现政策利好。",
+      "url": "https://mp.weixin.qq.com/s/1gdMqtOln9X0ycllvbooeA",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-03T23:23:39"
+    },
+    {
+      "title": "半年收入110亿美元：休闲游戏表面原地踏步，其实已换了一批赢家",
+      "description": "文章盘点2026上半年休闲游戏市场收入约110亿美元，指出大盘看似平稳但头部厂商与产品已发生更替，并分析背后的品类机会。对休闲游戏从业者判断赛道走势有直接参考价值。",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZWVRsTGVxTnFTQkUySGh6MkdmWFBmaG1IdEIwajhwRzZ1aV9UUDRjYnhycmRSYTlvM0ZJNmFrdjZNZFE5a3BBUmZGR0hxMDFtRFctUmY1SmdKUQ?oc=5",
       "source": "Google News",
+      "category": "行业资讯",
+      "score": 7,
+      "published_at": "2026-08-04T10:12:29"
+    },
+    {
+      "title": "消除类游戏素材的“爽感”可以这样放大",
+      "description": "围绕消除类游戏广告素材，拆解如何通过画面、节奏、反馈等手法强化用户“爽感”，进而提升素材吸量效果。对休闲游戏买量创意设计有直接参考价值。",
+      "url": "https://mp.weixin.qq.com/s/q1q9BvJnXD_TsXLb1XHFxg",
+      "source": "微信-这个游戏素材不错",
       "category": "深度拆解",
       "score": 7,
-      "published_at": "2026-08-03T01:17:09"
+      "published_at": "2026-08-03T11:50:51"
     },
     {
-      "title": "Ustwo Games：被免费模式挤出手游市场，但移动端做法正向PC迁移",
-      "description": "《纪念碑谷》开发商Ustwo Games回顾了免费模式崛起对精品付费手游的挤压，并已转向PC-first策略。文章讨论移动开发经验如何在PC延续，对手游产品趋势有一定参考价值。",
-      "url": "https://www.gamesindustry.biz/ustwo-games-was-pushed-out-of-mobile-by-the-rise-of-free-to-play-but-the-mobile-way-of-doing-things-is-coming-to-pc",
+      "title": "从“蚂蚁搬家”到“万物运输”：提炼共性，探索题材延展策略",
+      "description": "以蚂蚁搬家到万物运输的题材迁移为例，提炼休闲游戏题材中的共性元素，探索可复用的题材延展方法。对休闲游戏策划和立项有启发意义。",
+      "url": "https://mp.weixin.qq.com/s/iUwjGmcT51W_oFtRdOozDA",
+      "source": "微信-游戏本稚",
+      "category": "深度拆解",
+      "score": 7,
+      "published_at": "2026-08-03T09:27:32"
+    },
+    {
+      "title": "一年后再聚上海，Scopely和女性游戏人聊了聊：怎样走得更远",
+      "description": "文章聚焦Scopely与女性游戏从业者近期在上海的对谈活动，讨论女性在游戏行业中的职业发展路径与成长经验。虽然不涉及具体玩法拆解，但对理解游戏公司人才生态和团队文化有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/KlqtqhO6LLG5EQ4QcAdZVA",
+      "source": "微信-罗斯基",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T23:23:39"
+    },
+    {
+      "title": "GTA手游收入超1亿美元，腾讯、Garena等厂商开始抢食Rockstar地盘",
+      "description": "文章分析GTA在手游端已创造超1亿美元收入，并对比《Neverness to Everness》《One State》《Gangstar》等受GTA启发的移动端竞品。对关注移动端开放世界和大DAU品类竞争的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/gta-has-made-over-100m-on-mobile-and-now-tencent-garena-and-more-are-moving-onto-rockstars-turf/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-04T11:43:03"
+    },
+    {
+      "title": "七月下旬榜单再变：三跌三涨，无尽降回百万级",
+      "description": "报道7月下旬游戏榜单变动，提及三款游戏下滑、三款上涨，以及某款无尽类游戏营收/下载量回落至百万级。为休闲及中度游戏从业者提供市场表现动态参考。",
+      "url": "https://mp.weixin.qq.com/s/6j_UHbswDAJuuoNSu5i1sQ",
+      "source": "微信-百游录",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T23:56:03"
+    },
+    {
+      "title": "《寂静岭：小镇陨落》如何深入主角的内心世界",
+      "description": "采访系列制作人冈本基与游戏总监Jon McKellan，探讨游戏采用模拟恐怖风格并让玩家沉浸于全新视角的设计思路。文章涉及叙事与氛围塑造的深度设计经验，虽非休闲品类，但对游戏设计师有可迁移的思考价值。",
+      "url": "https://www.gamedeveloper.com/design/how-silent-hill-townfall-gets-deep-into-its-protagonist-s-headspace",
+      "source": "Game Developer",
+      "category": "深度拆解",
+      "score": 6,
+      "published_at": "2026-08-03T18:07:30"
+    },
+    {
+      "title": "十年IP的角色储备该怎么花？这家上海二游厂商给出了答案",
+      "description": "竞核报道上海一家二次元游戏厂商如何规划十年IP的角色内容，通过角色储备与内容节奏释放IP价值。对产品和IP运营从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/HZuJ_vMo0v1snzc5W0BFuQ",
+      "source": "微信-竞核",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T12:48:58"
+    },
+    {
+      "title": "上海游戏产业半年报：端游增长35%，海外收入达179亿元，AI成为增长新变量",
+      "description": "上海游戏产业上半年数据显示端游同比增长35%，海外收入达179亿元，AI成为行业增长新逻辑。为观察国内游戏市场结构变化和出海趋势提供数据参考。",
+      "url": "https://mp.weixin.qq.com/s/diAbnxKjY-AKgt0SSUZnwQ",
+      "source": "微信-游戏产业报告",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T09:02:17"
+    },
+    {
+      "title": "游戏行业的旧图纸与新算盘",
+      "description": "文章围绕游戏行业延续既有设计经验与寻找新商业化方式展开，属于面向从业者的行业观察。可帮助休闲游戏产品与运营团队审视立项方向和变现思路。",
+      "url": "https://mp.weixin.qq.com/s/ngwEzmxSbliaJ8wJEGdTLg",
+      "source": "微信-Hao的游戏PM笔记",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-03T08:57:16"
+    },
+    {
+      "title": "波克新游《指尖之旅》：搜打撤+Last War 的体验如何",
+      "description": "文章分享波克新游《指尖之旅》的试玩体验，关注其将搜打撤式玩法与Last War式长线成长框架结合的做法。对手游团队观察中重度混合玩法与变现融合有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/6c8mwLTgMX0Y7fW8KhFV2g",
+      "source": "微信-急速行走的小U盘",
+      "category": "泛游戏",
+      "score": 6,
+      "published_at": "2026-08-03T07:30:55"
+    },
+    {
+      "title": "行业做出了伟大的游戏，但没人能找到它们",
+      "description": "文章围绕Madeira Games Summit的讨论提出，2026年游戏行业最需解决的问题之一是游戏可发现性。内容聚焦发行、曝光与营销挑战，对运营和买量从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-03T14:59:24"
+      "score": 5,
+      "published_at": "2026-08-04T11:00:00"
     },
     {
-      "title": "Roblox推出“Slim”技术，让复杂Avatar可在低端安卓运行并推动移动端创作",
-      "description": "Roblox称新Slim技术可让复杂Avatar在低端Android设备上运行，同时推动“在移动端创建游戏”的方向。与移动端UGC和休闲/轻度多人游戏相关，值得从业者留意。",
-      "url": "https://mobilegamer.biz/roblox-says-new-slim-tech-will-let-complex-avatars-run-on-low-end-android-as-it-pushes-mobile-first-game-creation/",
-      "source": "Mobile Gamer Biz",
+      "title": "EA被沙特收购前发布最后财报：Live Service收入占主导",
+      "description": "EA在沙特财团收购完成前发布最后一份财报，显示Live Service收入持续占据主导。对关注3A发行商服务化转型和长线运营模式的从业者有参考意义。",
+      "url": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
+      "source": "Game Developer",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-03T10:00:16"
+      "score": 5,
+      "published_at": "2026-08-04T10:34:49"
     },
     {
-      "title": "EA、腾讯、Moon Active、Take-Two等厂商值得关注的软启动测试游戏",
-      "description": "文章汇总多家头部移动游戏厂商正在软启动测试的产品，涵盖测试区域、品类和玩法信息。适合休闲游戏从业者作为市场观察与竞品情报参考。",
-      "url": "https://mobilegamer.biz/the-soft-launch-games-you-need-to-know-about/",
-      "source": "Mobile Gamer Biz",
+      "title": "在ChinaJoy逛了一圈后，我对AI游戏的判断被改写了",
+      "description": "作者在ChinaJoy现场体验AI游戏后，更新了对AI技术落地程度和商业前景的判断。对关注AI在游戏制作中实际表现的从业者有参考价值。",
+      "url": "https://mp.weixin.qq.com/s/7sKavEPoe5Zt9sv4_6G25w",
+      "source": "微信-游戏本稚",
       "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-03T08:30:00"
+      "score": 5,
+      "published_at": "2026-08-04T09:33:08"
     },
     {
-      "title": "Garena宣布推出《Palworld Online》手游MMO",
-      "description": "Garena与Pocketpair合作，将基于《幻兽帕鲁》IP打造移动端MMO，计划年内登陆iOS和Android。热门IP转手游值得关注，但非三消/休闲品类核心内容。",
-      "url": "https://mobilegamer.biz/garena-announces-palworld-online-a-mobile-mmo-based-on-pocketpairs-hit-survival-game/",
+      "title": "CJ现场实测：AI已经能做商业游戏？极逸SOON有点猛",
+      "description": "文章以现场实测方式展示极逸SOON的AI游戏能力，讨论AI生成内容是否已足够支撑商业游戏。对评估AI生产工具与自动化研发流程有一定参考意义。",
+      "url": "https://mp.weixin.qq.com/s/j7XbLh7pVncEjwDXN1YNpg",
+      "source": "微信-急速行走的小U盘",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-04T09:01:11"
+    },
+    {
+      "title": "退役网球选手用 Claude Code 打造并发布《Tennis Tycoon》",
+      "description": "报道退役网球职业选手Iain Atkinson完全使用Claude Code制作并发布游戏《Tennis Tycoon》的消息。文章聚焦业余开发者借助AI工具实现游戏开发梦，对关注AI辅助游戏开发趋势的从业者有参考价值。",
+      "url": "https://mobilegamer.biz/retired-tennis-pro-iain-atkinson-made-debut-game-tennis-tycoon-entirely-with-claude-code/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-03T11:29:01"
+      "published_at": "2026-08-04T08:53:31"
     },
     {
-      "title": "松弛聊手游：先刷活动还是通主线？",
-      "description": "机核手游闲聊节目，讨论《绝区零》《鸣潮》《明日方舟》等产品的新版本与活动，以及经典MMO《洛奇》手游对移动端节奏的适配。涉及手游LiveOps与内容节奏话题，对休闲游戏运营有一定延伸参考，但非深度拆解。",
-      "url": "https://www.xiaoyuzhoufm.com/episode/6a6c13d7b581962ce2be4f46",
-      "source": "播客-机核游戏频道",
-      "category": "泛游戏",
+      "title": "新游录《机械狂欢》——多人派对游戏",
+      "description": "介绍新品多人派对游戏《机械狂欢》。文章可能涵盖游戏玩法、特色及发布信息，适合关注休闲/派对品类新游动向的读者。",
+      "url": "https://mp.weixin.qq.com/s/n3G_PQJnvTfXoktN_K8MTA",
+      "source": "微信-GameCentral",
+      "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-07-31T03:27:56"
+      "published_at": "2026-08-04T08:08:56"
+    },
+    {
+      "title": "Atari主营业务扭亏为盈，但受Thunderful拖累集团净亏550万美元",
+      "description": "Atari发布2025-26财年业绩，营收同比增长66%至6500万美元，其中收购Thunderful贡献显著，但集团仍录得550万美元净亏损。为关注欧美老牌游戏公司转型和并购整合的读者提供财务快讯。",
+      "url": "https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T19:44:13"
+    },
+    {
+      "title": "《代号：神不言》未上线先陷“商战猜想”",
+      "description": "围绕新游《代号：神不言》展开的讨论，聚焦游戏尚未上线便引发行业对其商业攻防的猜测。文章或揭示新游营销与市场竞争的博弈现象，适合从业者观察宣发策略。",
+      "url": "https://mp.weixin.qq.com/s/Zb0hijHCZ51KE4uA-fXaxA",
+      "source": "微信-游戏花火",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T19:41:54"
+    },
+    {
+      "title": "从游戏出海到AI渗透：七位专家大会观点精华分享",
+      "description": "汇总七位专家在行业大会上关于游戏出海和AI应用的核心观点，覆盖市场策略与技术趋势。适合游戏出海从业者快速获取洞见，属于综合会议报道。",
+      "url": "https://mp.weixin.qq.com/s/VEIOJQb6-r8chb1d-Uj9DQ",
+      "source": "微信-独立出海联合体",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T17:54:43"
+    },
+    {
+      "title": "见证创新力量！第二届“数龙杯”各项大奖依次揭晓",
+      "description": "报道第二届“数龙杯”各大奖项的揭晓结果，盘点国内游戏创新产品与团队。适合从业者快速浏览近期行业创新动态和获奖产品参考。",
+      "url": "https://mp.weixin.qq.com/s/mZtKhXylhZVl7OmJR3SpvQ",
+      "source": "微信-独立出海联合体",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T17:54:43"
+    },
+    {
+      "title": "60+游戏现场试玩，今年CJ让我重新认识鸿蒙",
+      "description": "作者在ChinaJoy现场试玩60余款鸿蒙游戏，观察鸿蒙游戏生态的进展和游戏适配情况。对开发者评估鸿蒙渠道价值和合作机会有一定参考意义。",
+      "url": "https://mp.weixin.qq.com/s/qF4gGmf4got4X41rNeFcFA",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T17:36:39"
+    },
+    {
+      "title": "金韬创业项目《阴阳师：云图》曝光：UE5、三端互通、ARPG",
+      "description": "曝光金韬创业项目《阴阳师：云图》，该作采用UE5打造，支持三端互通，玩法为ARPG。属于新游情报，可帮助从业者追踪IP改编产品动态。",
+      "url": "https://mp.weixin.qq.com/s/fkn1iHiQ6oYZN6i5FSOcTA",
+      "source": "微信-游戏陀螺",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T17:36:39"
+    },
+    {
+      "title": "外媒：FIFA世界杯开发商Refactor Games被Delphi Interactive关闭",
+      "description": "报道Refactor Games在Netflix版足球模拟游戏上线不久后遭母公司Delphi Interactive关闭。反映发行合作与工作室运营风险，供从业者了解行业动态。",
+      "url": "https://www.gamedeveloper.com/production/report-refactor-games-shuttered-by-delphi-interactive",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T16:01:21"
+    },
+    {
+      "title": "雷蛇收购StreamElements资产",
+      "description": "雷蛇收购云直播平台StreamElements的资产，涉及游戏直播工具与创作者服务。对关注游戏直播生态和公司并购动向的从业者有参考价值。",
+      "url": "https://www.gamesindustry.biz/razer-acquires-streamelements-assets",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T15:56:47"
+    },
+    {
+      "title": "AI初创公司Reforged Labs关闭：团队称“原本切入的市场缺口正在闭合”",
+      "description": "生成式AI平台Reforged Labs成立三年后关闭，原因是向游戏以外行业扩展困难。反映AI游戏服务的商业化挑战，供关注AI+游戏的从业者参考。",
+      "url": "https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T13:47:44"
+    },
+    {
+      "title": "Rokky携手Revolution Software将《断剑》系列带入中国",
+      "description": "发行商Rokky与Revolution Software达成合作，将联合在中国发行《断剑》系列。反映海外经典IP进入中国市场的发行路径和合作模式。",
+      "url": "https://www.gamesindustry.biz/rokky-teams-up-with-revolution-software-to-bring-broken-sword-franchise-to-china",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T12:45:46"
+    },
+    {
+      "title": "PlayStation 5全球销量突破9500万台",
+      "description": "索尼PS5全球累计销量超过9500万台，同时获得美国关税退款超5.1亿美元。反映主机市场整体规模与关税政策对厂商财务的影响。",
+      "url": "https://www.gamedeveloper.com/business/playstation-5-sales-have-topped-95-million-units-worldwide",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T11:39:02"
+    },
+    {
+      "title": "《Last Sentinel》开发商Lightspeed LA裁员，据报削减80个岗位",
+      "description": "腾讯旗下Lightspeed LA为调整《Last Sentinel》开发方向进行裁员，涉及约80个岗位。反映3A项目研发变动对团队规模和产品方向的影响。",
+      "url": "https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T09:57:28"
+    },
+    {
+      "title": "上海电竞半年报：AI驱动产业连续第5年增长，突破34亿元持续领先全国",
+      "description": "报告显示上海电竞产业在AI驱动下连续第五年增长，规模超34亿元，继续保持全国领先。适合关注区域电竞市场和政策趋势的从业者阅读。",
+      "url": "https://mp.weixin.qq.com/s/-A9azJcaReP129CzxGQiXg",
+      "source": "微信-游戏产业报告",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T09:02:17"
+    },
+    {
+      "title": "微软确认上调英国与欧洲 Xbox 主机价格",
+      "description": "微软确认在英国和欧洲上调Xbox主机价格，上一轮全球涨价在6月底宣布。硬件定价变化会对发行策略和平台生态有影响，但对休闲手游的直接影响有限。",
+      "url": "https://www.gamesindustry.biz/microsoft-confirms-increased-xbox-prices-in-the-uk-and-europe",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-03T08:22:06"
     }
   ]
 }
