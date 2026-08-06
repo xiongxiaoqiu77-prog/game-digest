@@ -1,60 +1,96 @@
 {
-  "updated": "2026-08-06",
-  "generated_at": "2026-08-06T15:29:36.819899",
+  "updated": "2026-08-07",
+  "generated_at": "2026-08-07T06:45:55.121719",
   "articles": [
     {
-      "title": "《糖果传奇》开发商King拒绝员工集体谈判协议",
-      "description": "微软旗下King拒绝员工的集体谈判协议，称现有福利已达到或超过协议水平。该事件涉及休闲游戏巨头的劳资关系，对行业用人策略有参考意义。",
-      "url": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-05T17:01:37"
-    },
-    {
-      "title": "数据摘要：Sensor Tower上半年分析、Hay Day回归、7月热门游戏及Krafton业绩等",
-      "description": "汇总近期手游市场数据，包括Sensor Tower上半年分析、Hay Day回暖、7月手游榜单和Krafton业绩，以及中国手游版号获批的突然增加。适合从业者快速掌握市场动态。",
-      "url": "https://mobilegamer.biz/data-digest-sensor-towers-h1-analysis-hay-days-comeback-julys-top-games-big-krafton-numbers-and-more/",
+      "title": "Playtika 因《迪士尼纸牌》业绩回暖，但 UA 投放将削减 70%",
+      "description": "报道 Playtika 最新财报表现，指出《迪士尼纸牌》（Disney Solitaire）规模近翻两番并带动盈利，但公司将把用户获取投放削减 70%。文中还提及 Playtika 在支付 SuperPlay 对赌款项方面存在困难，对休闲游戏从业者了解头部厂商买量与并购后续有参考价值。",
+      "url": "https://mobilegamer.biz/playtika-returns-to-profit-as-disney-solitaire-nearly-quadruples-in-size/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-05T15:24:45"
+      "published_at": "2026-08-06T21:57:15"
     },
     {
-      "title": "EA现在归沙特阿拉伯和特朗普女婿所有",
-      "description": "美国游戏发行商EA已被私有化，交易额550亿美元，买家包括沙特公共投资基金相关财团以及特朗普女婿。行业格局再变动，对大型游戏发行策略有影响。",
-      "url": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
+      "title": "Unity 以 4000 万美元将 Supersonic 发行业务出售给 Tripledot",
+      "description": "Unity 完成向 Tripledot 出售 Supersonic 发行业务的交易，作价 4000 万美元。Tripledot 表示收购有助于其在“AI 游戏时代”增强竞争力并获取以色列人才，交易也反映 Unity 重新聚焦 Vector 业务。对关注超休闲/休闲游戏发行格局的从业者具有行业参考价值。",
+      "url": "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-biz-to-tripledot-for-40m",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-04T20:25:02"
+      "published_at": "2026-08-06T16:17:44"
     },
     {
-      "title": "发行商Secret Mode开设内部开发工作室以支持自研项目",
-      "description": "Secret Mode宣布成立内部开发工作室，用于支持自有项目。这是一年多前独立并裁员后的一项新战略，反映中型发行商在项目模式上的调整。",
-      "url": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
+      "title": "Roblox Q2 变现不及预期，股价下跌 70%",
+      "description": "Roblox 公布第二季度业绩，虽然整体营收增长但变现水平比公司指引低 2%，拖累预订量并导致股价大跌 70%。该案例对关注用户生成内容平台和游戏内变现机制的从业者有借鉴意义。",
+      "url": "https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2",
+      "source": "GamesIndustry.biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-06T13:17:27"
+    },
+    {
+      "title": "AppLovin 二季度营收增长 53% 但未达指引，股价大跌",
+      "description": "AppLovin 发布 Q2 财报，营收大幅增长 53% 且利润创纪录，但仍未达到公司指引，导致股价剧烈下跌。该报道对关注移动广告变现与买量平台的从业者具有直接参考价值。",
+      "url": "https://mobilegamer.biz/applovin-misses-guidance-despite-53-revenue-growth-in-q2/",
+      "source": "Mobile Gamer Biz",
+      "category": "行业资讯",
+      "score": 6,
+      "published_at": "2026-08-06T09:07:06"
+    },
+    {
+      "title": "任天堂 Switch 2 硬件销量同比下降 34.4%",
+      "description": "任天堂最新财报显示 Switch 2 硬件销量同比下滑 34.4%，但公司维持全年硬件销售预期不变。该消息可作为主机游戏市场动态参考，但与休闲/三消手游的直接关联较弱。",
+      "url": "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-down-34-4-percent-year-on-year",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T18:00:00"
+      "published_at": "2026-08-06T16:47:36"
     },
     {
-      "title": "2026年8月游戏行业人事动态：Yogscast Games新增三名员工",
-      "description": "游戏行业人事变动的定期汇总，本期提到Yogscast Games的三位新成员。对关注团队动向的从业者有一定参考。",
-      "url": "https://www.gamesindustry.biz/jobs-roundup-august-2026-three-new-hires-at-yogscast-games",
+      "title": "《光环：战役进化》发售后，Halo Studios 裁撤多名长期合同工",
+      "description": "报道 Halo Studios 在《光环：战役进化》发售后解雇一批服务多年的合同制员工。该新闻属于主机/PC 游戏团队调整动态，与休闲手游领域不直接相关。",
+      "url": "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serving-contractors-after-launch-of-halo-campaign-evolved",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-06T14:21:21"
+    },
+    {
+      "title": "Rockstar 想让玩家订阅 Netflix 才能提前看下一支《GTA VI》预告片",
+      "description": "Rockstar 宣布《GTA VI》下一支预告片的“加长版”将先在 Netflix 独家上线 6 小时，之后才在 YouTube 公开。该事件是游戏营销与流媒体平台合作的行业动态，与休闲游戏领域关联不大。",
+      "url": "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix-to-watch-the-next-gta-vi-trailer",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-06T12:37:24"
+    },
+    {
+      "title": "Devolver 拟私有化退市，称独立发行不适合公开交易",
+      "description": "独立发行商 Devolver Digital 计划今年晚些时候再次私有化，认为公开市场对公司估值存在“脱节”，未充分反映游戏长期收入价值。该动态反映独立发行/上市游戏公司的资本困境，对行业从业者了解资本市场与游戏业务的错配有参考价值。",
+      "url": "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-indie-publishing-is-not-compatible-with-public-trading",
+      "source": "Game Developer",
+      "category": "行业资讯",
+      "score": 5,
+      "published_at": "2026-08-06T11:45:40"
+    },
+    {
+      "title": "任天堂 Q1 销售额下降 9.5%，软件收入与关税退税推动营业利润大涨",
+      "description": "任天堂第一财季净销售额同比减少 9.5%，但软件销售收入提升以及约 3 亿美元美国关税退税使营业利润增长 150.5%。该财报动态可作主机游戏市场参考，与休闲手游关联较弱。",
+      "url": "https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T10:57:10"
+      "published_at": "2026-08-06T08:46:53"
     },
     {
-      "title": "Raptor PR推出Early Gaming Growth平台，助游戏初创企业开展B2B传播",
-      "description": "公关公司Raptor PR为游戏初创团队推出名为EGG的传播平台，提供B2B沟通支持。对出海和初创团队获取行业资源有信息价值。",
-      "url": "https://www.gamesindustry.biz/raptor-pr-launches-early-gaming-growth-platform-to-help-gaming-startups-navigate-b2b-communications",
-      "source": "GamesIndustry.biz",
+      "title": "EA 以 550 亿美元出售给沙特主导财团，交易正式完成",
+      "description": "EA 被沙特主导财团以 550 亿美元收购的交易正式完成，其股票已停止交易并从纳斯达克退市。这是游戏行业重大资本事件，对整体市场格局有影响，但与休闲手游细分领域关联一般。",
+      "url": "https://mobilegamer.biz/eas-55bn-sale-to-saudi-led-consortium-is-officially-complete/",
+      "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T08:00:00"
+      "published_at": "2026-08-05T07:58:53"
     }
   ]
 }
