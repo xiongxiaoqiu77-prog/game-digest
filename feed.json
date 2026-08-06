@@ -1,150 +1,60 @@
 {
   "updated": "2026-08-06",
-  "generated_at": "2026-08-06T10:52:17.015969",
+  "generated_at": "2026-08-06T15:29:36.819899",
   "articles": [
     {
-      "title": "数据摘要：Sensor Tower上半年分析、Hay Day回归、7月最佳游戏及更多",
-      "description": "汇总Sensor Tower上半年数据、Hay Day回潮、7月热门游戏及Krafton业绩等移动游戏市场动态，并包含中国手游版号批量获批信息，适合从业者快速了解行业趋势。",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTFidWp1T1luNDVWTEdXSlRzZmRjS3IwdmphaEhOQ1NJRnVoNUZQd05Dd0Z2SEdYYjc1MERKekNMdURqNmJmcFc5QlpGSE5SVC1SdDdEOWI4Q0FUSDRsZzNSaGYyQWZwQWdJU1RXY0w0RnNkaVZmb3NraHV0SU9IbDI0NmdjRzZIUkJGeThuRWNNVV9LTlREVFpBa1ZCRWlQYWRJTDlFbjFTMzE0TFhkU0VZR0ZtU2ItZ1k2TU1VcU1jY2c?oc=5",
-      "source": "重点游戏-MONOPOLY GO",
+      "title": "《糖果传奇》开发商King拒绝员工集体谈判协议",
+      "description": "微软旗下King拒绝员工的集体谈判协议，称现有福利已达到或超过协议水平。该事件涉及休闲游戏巨头的劳资关系，对行业用人策略有参考意义。",
+      "url": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
+      "source": "Game Developer",
       "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-05T15:24:54"
+      "score": 6,
+      "published_at": "2026-08-05T17:01:37"
     },
     {
-      "title": "解谜与合并品类继续引领2026年上半年休闲游戏增长",
-      "description": "报告显示，2026年上半年解谜和合并类游戏继续推动休闲游戏市场增长，是发行商和开发者重点关注的方向。对休闲游戏从业者具有市场参考价值。",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuTnVkVWtQUE1nYUtRVVgwSVVxTXBjUV83U0tKT2ktT0ZVOU9TZklySzhFMWc1MHl4MjF4Qzg5QXV2eDBZa2lLTlY0UXlIYU9OdHdfLU9waVM4ZTg4MUF2aHVRLW15ZU0ybGhJOWdqV1RFNXhWem5B?oc=5",
-      "source": "Google News",
-      "category": "行业资讯",
-      "score": 7,
-      "published_at": "2026-08-04T07:00:00"
-    },
-    {
-      "title": "播客：EA售予沙特、GTA手游、Palworld Online、Roblox等话题",
-      "description": "本周移动游戏行业播客，讨论EA出售、GTA登陆移动端、Palworld Online、Roblox等热点，提供行业内部视角。",
-      "url": "https://mobilegamer.biz/subscribe-to-the-mobilegamer-biz-podcast-now/",
+      "title": "数据摘要：Sensor Tower上半年分析、Hay Day回归、7月热门游戏及Krafton业绩等",
+      "description": "汇总近期手游市场数据，包括Sensor Tower上半年分析、Hay Day回暖、7月手游榜单和Krafton业绩，以及中国手游版号获批的突然增加。适合从业者快速掌握市场动态。",
+      "url": "https://mobilegamer.biz/data-digest-sensor-towers-h1-analysis-hay-days-comeback-julys-top-games-big-krafton-numbers-and-more/",
       "source": "Mobile Gamer Biz",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-05T23:30:00"
+      "published_at": "2026-08-05T15:24:45"
     },
     {
-      "title": "King拒绝与瑞典工会达成集体谈判协议",
-      "description": "《糖果传奇》开发商King拒绝签署瑞典工会集体协议，称现有福利已达标。事件反映休闲游戏巨头劳资关系动态。",
-      "url": "https://www.gamesindustry.biz/king-declines-collective-bargaining-agreement-with-swedish-unions",
-      "source": "GamesIndustry.biz",
+      "title": "EA现在归沙特阿拉伯和特朗普女婿所有",
+      "description": "美国游戏发行商EA已被私有化，交易额550亿美元，买家包括沙特公共投资基金相关财团以及特朗普女婿。行业格局再变动，对大型游戏发行策略有影响。",
+      "url": "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-and-donald-trump-s-son-in-law",
+      "source": "Game Developer",
       "category": "行业资讯",
       "score": 6,
-      "published_at": "2026-08-05T18:41:43"
+      "published_at": "2026-08-04T20:25:02"
     },
     {
-      "title": "EA完成550亿美元收购案，CEO宣布高管调整",
-      "description": "EA已被沙特公共投资基金以550亿美元杠杆收购，CEO同步调整高层。这是游戏业重大资本事件，影响移动游戏格局。",
-      "url": "https://www.gamesindustry.biz/electronic-arts-completes-55bn-acquisition-ceo-announces-senior-leadership-changes",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-05T08:07:24"
-    },
-    {
-      "title": "Roblox报告的用户数将使其受欧盟社交网络监管法规约束",
-      "description": "Roblox报告的用户数可能使其成为首个被欧盟归类为“超大型在线平台”的游戏，从而受到更严格的社交网络监管。对游戏平台合规具有里程碑意义。",
-      "url": "https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 6,
-      "published_at": "2026-08-04T09:47:52"
-    },
-    {
-      "title": "《恐鬼症》开发商旗下发行品牌Kinetic Publishing将于本月展示首批作品",
-      "description": "Kinetic Publishing将在8月12日展示首批签约游戏，体现独立发行领域新动态。",
-      "url": "https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-05T16:21:44"
-    },
-    {
-      "title": "欧洲政策制定者被敦促加大对本土游戏产业的支持",
-      "description": "文章呼吁欧洲政策制定者重视游戏产业的生产力与活力，推动政策支持。对关注海外市场环境的人有参考价值。",
-      "url": "https://www.gamedeveloper.com/production/policymakers-across-europe-told-to-do-more-to-support-game-industry",
+      "title": "发行商Secret Mode开设内部开发工作室以支持自研项目",
+      "description": "Secret Mode宣布成立内部开发工作室，用于支持自有项目。这是一年多前独立并裁员后的一项新战略，反映中型发行商在项目模式上的调整。",
+      "url": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
       "source": "Game Developer",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T14:02:20"
+      "published_at": "2026-08-05T18:00:00"
     },
     {
-      "title": "Silver Lining Interactive旗下开发品牌Silver Bullet公布首款作品",
-      "description": "独立发行商Silver Lining Interactive通过内部IP开发品牌Silver Bullet推出首款游戏，值得关注独立游戏动向。",
-      "url": "https://www.gamesindustry.biz/silver-lining-interactive-launches-first-title-from-its-development-label-silver-bullet",
+      "title": "2026年8月游戏行业人事动态：Yogscast Games新增三名员工",
+      "description": "游戏行业人事变动的定期汇总，本期提到Yogscast Games的三位新成员。对关注团队动向的从业者有一定参考。",
+      "url": "https://www.gamesindustry.biz/jobs-roundup-august-2026-three-new-hires-at-yogscast-games",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T13:11:29"
+      "published_at": "2026-08-05T10:57:10"
     },
     {
-      "title": "Coffee Stain对前景乐观，尽管《深岩银河》衍生品表现不佳",
-      "description": "Coffee Stain旗下Roblox游戏《欢迎来到Bloxburg》Q1收入210万美元，公司整体仍乐观，反映多品类布局的风险与机会。",
-      "url": "https://www.gamedeveloper.com/business/coffee-stain-bullish-despite-underperformance-of-deep-rock-galactic-spinoff",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-05T11:14:49"
-    },
-    {
-      "title": "Secret Mode在谢菲尔德开设新工作室支持内部项目",
-      "description": "独立发行商Secret Mode成立三人内部工作室，计划扩至20人，接手《Escape the Backrooms》等作品。属于发行商动态。",
-      "url": "https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together",
+      "title": "Raptor PR推出Early Gaming Growth平台，助游戏初创企业开展B2B传播",
+      "description": "公关公司Raptor PR为游戏初创团队推出名为EGG的传播平台，提供B2B沟通支持。对出海和初创团队获取行业资源有信息价值。",
+      "url": "https://www.gamesindustry.biz/raptor-pr-launches-early-gaming-growth-platform-to-help-gaming-startups-navigate-b2b-communications",
       "source": "GamesIndustry.biz",
       "category": "行业资讯",
       "score": 5,
-      "published_at": "2026-08-05T05:00:00"
-    },
-    {
-      "title": "开发者五天筹集13万美元支持被裁同行",
-      "description": "游戏行业困难基金捆绑包在五天内募集超13万美元，用于支持持续大规模裁员中的游戏从业者，已超过20万美元目标的一半。反映了行业裁员潮下开发者互助的趋势。",
-      "url": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-04T18:30:00"
-    },
-    {
-      "title": "面对儿童安全诉讼，Roblox称继续推动数字安全标准",
-      "description": "Roblox公司表示继续努力制定健康、安全和适龄的数字互动“全球标准”，但同时面临多起指控其危害儿童的诉讼。该事件可能影响游戏平台合规和内容安全策略。",
-      "url": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-04T17:24:10"
-    },
-    {
-      "title": "更新：腾讯旗下Lightspeed LA裁员68人",
-      "description": "腾讯旗下工作室Lightspeed LA裁员68人，官方将原因归咎于项目创作和发展方向调整。显示大型工作室项目变动对团队的影响。",
-      "url": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
-      "source": "Game Developer",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-04T14:22:00"
-    },
-    {
-      "title": "前Sumo Group CEO Carl Cavers加入联合开发工作室Vertpaint任非执行董事兼股东",
-      "description": "前Sumo Group联合创始人兼CEO Carl Cavers OBE加入联合开发工作室Vertpaint，担任非执行董事和股东。人事变动可能影响该工作室的行业资源与合作机会。",
-      "url": "https://www.gamesindustry.biz/ex-sumo-group-ceo-carl-cavers-joins-co-dev-studio-vertpaint-as-non-exec-director-and-shareholder",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-04T12:15:35"
-    },
-    {
-      "title": "FirstLook推出创作者优先平台Creators.gg，与IO Interactive及Brain Jar Games合作",
-      "description": "玩家关系与营销平台FirstLook发布Creators.gg，旨在连接工作室与各规模创作者，而非仅限头部主播。首批合作伙伴包括IO Interactive和Brain Jar Games，对中小型游戏推广模式有参考意义。",
-      "url": "https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games",
-      "source": "GamesIndustry.biz",
-      "category": "行业资讯",
-      "score": 5,
-      "published_at": "2026-08-04T12:00:00"
+      "published_at": "2026-08-05T08:00:00"
     }
   ]
 }
